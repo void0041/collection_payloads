@@ -1,0 +1,5 @@
++280505552280;phone-context=<script>alert(1337)</script>
++280505552280;phone-context=https://evil.com
++280505552280;phone-context=sleep(10)
++280505552280;phone-context={{4*4}}{{6+6}}
++280505552280;ext=N
