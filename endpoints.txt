@@ -16,3 +16,6 @@ db_live
 .svn/wc.db
 info.php
 .git
+app_dev.php
+_profiler
+phpinfo
