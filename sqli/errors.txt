@@ -69,3 +69,4 @@
 *)(|(*
 *))%00
 -'
+' + convert(int, @@version) + '
