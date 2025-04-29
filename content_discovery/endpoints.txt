@@ -19,3 +19,4 @@ info.php
 app_dev.php
 _profiler
 phpinfo
+?brandselect=1
