@@ -1,2 +1,32 @@
 site:*.example.com intext:"index of /"
 site:*.example.com intitle:Swagger UI (inurl:/swagger-ui/ OR inurl:/swagger/ OR inurl:/api-docs/ OR inurl:/v2/api-docs OR inurl:/v3/api-docs OR inurl:swagger.json OR inurl:swagger.yaml) -github -gitlab -stackoverflow
+site:example.com intitle:index of inurl:ftp
+site:example.com filetype:pdf
+site:example.com ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini
+site:example.com ext:sql | ext:dbf | ext:mdb
+site:example.com ext:log
+site:example.com ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup
+site:example.com ext:doc | ext:docx | ext:odt | ext:pdf | ext:rtf | ext:sxw | ext:psw | ext:ppt | ext:pptx | ext:pps | ext:csv
+site:example.com inurl:email | inurl:emails ext:txt | ext:xlsx | ext:doc | ext:docx
+site:example.com ext:xls | ext:xml | ext:xlsx | ext:json | ext:pdf | ext:sql | ext:doc | ext:docx | ext:pptx | ext:txt | ext:zip | ext:tar.gz | ext:tgz | ext:bak | ext:7z | ext:rar | ext:log | ext:cache | ext:secret | ext:db | ext:backup | ext:yml | ext:gz | ext:config | ext:csv | ext:yaml | ext:md | ext:md5 | ext:tar | ext:xz | ext:7zip | ext:p12 | ext:pem | ext:key | ext:crt | ext:csr | ext:sh | ext:pl | ext:py | ext:java | ext:class | ext:jar | ext:war | ext:ear | ext:sqlitedb | ext:sqlite3 | ext:dbf | ext:db3 | ext:accdb | ext:mdb | ext:sqlcipher | ext:gitignore | ext:env | ext:ini | ext:conf | ext:properties | ext:plist | ext:cfg
+site:example.com intext:admin.password
+site:example.com `admin_password` ext:txt | ext:log | ext:cfg
+site:example.com filetype:log intext:password after:2016 intext:@gmail.com | @yahoo.com | @hotmail.com
+site:example.com ext:txt | ext:pdf | ext:xml | ext:xls | ext:xlsx | ext:ppt | ext:pptx | ext:doc | ext:docx intext:“confidential” | intext:“Not for Public Release” | intext:”internal use only” | intext:“do not distribute” | ext:rtf | ext:csv | ext:json | ext:zip | ext:rar | ext:log | ext:conf | ext:sql | ext:cnf | ext:ini | ext:env | ext:sh | ext:swp | ext:~ | ext:git | ext:svn | ext:htpasswd | ext:htaccess
+site:example.com filetype:config apache
+site:example.com ext:action | ext:struts | ext:do
+site:example.com ext:php intitle:phpinfo published
+site:example.com inurl:/phpinfo.php | inurl:.htaccess
+site:example.com inurl:readme | inurl:license | inurl:install | inurl:setup | inurl:config
+site:http://ideone.com | site:http://codebeautify.org | site:http://codeshare.io | site:http://codepen.io | site:http://repl.it | site:http://justpaste.it | site:http://pastebin.com | site:http://jsfiddle.net | site:http://trello.com | site:*.atlassian.net | site:bitbucket.org example.com
+site:digitaloceanspaces.com example.com
+site:googleapis.com "example.com"
+site:drive.google.com "example.com"
+site:dev.azure.com "example.com"
+site:onedrive.live.com "example.com"
+site:docs.google.com inurl:"/d/" "example.com"
+site:example.com inurl:login | inurl:admin | inurl:login | inurl:logon | inurl:sign-in | inurl:signin | inurl:signup | inurl:sign-up | inurl:dash | inurl:portal | inurl:panel | inurl:register | inurl:administrator
+site:example.com inurl:shell | inurl:backdoor | inurl:wso | inurl:cmd | shadow | passwd | boot.ini | inurl:backdoor | intitle:Mini Shell
+site:linkedin.com employees example.com
+site:facebook.com employees example.com
+site:twitter.com employees example.com
