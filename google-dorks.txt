@@ -1,0 +1,2 @@
+site:*.example.com intext:"index of /"
+site:*.example.com intitle:Swagger UI (inurl:/swagger-ui/ OR inurl:/swagger/ OR inurl:/api-docs/ OR inurl:/v2/api-docs OR inurl:/v3/api-docs OR inurl:swagger.json OR inurl:swagger.yaml) -github -gitlab -stackoverflow
