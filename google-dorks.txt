@@ -10,7 +10,6 @@ site:example.com inurl:"submit a report" | intitle:"submit a report"
 site:example.com inurl:"Support Center" | intitle:"Support Center"
 site:example.com inurl:"Send Us a Message" | intitle:"Send Us a Message"
 site:example.com intitle:"contact.php" | intitle:"contactus" | intitle:"contactus.php" | intitle:"contactus.aspx" | intitle:"contactus.asp" | intitle:"contactus.html" | intitle:"contact-us.html" | intitle:"contact_us.html" | intitle:"contact.html" | intitle:"contactus.html"
-
 site:*.example.com intext:"index of /"
 site:*.example.com intitle:Swagger UI (inurl:/swagger-ui/ OR inurl:/swagger/ OR inurl:/api-docs/ OR inurl:/v2/api-docs OR inurl:/v3/api-docs OR inurl:swagger.json OR inurl:swagger.yaml) -github -gitlab -stackoverflow
 site:example.com intitle:index of inurl:ftp
@@ -42,4 +41,5 @@ site:example.com inurl:login | inurl:admin | inurl:login | inurl:logon | inurl:s
 site:example.com inurl:shell | inurl:backdoor | inurl:wso | inurl:cmd | shadow | passwd | boot.ini | inurl:backdoor | intitle:Mini Shell
 site:linkedin.com employees example.com
 site:facebook.com employees example.com
+
 site:twitter.com employees example.com
